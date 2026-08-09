@@ -83,14 +83,20 @@ function pickAlternateLink(link) {
   return alt?.['@_href'] ?? '';
 }
 
+const FETCH_HEADERS = {
+  'User-Agent':
+    'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
+  Accept: 'application/rss+xml, application/atom+xml, application/xml, text/xml, application/json, */*',
+};
+
 async function fetchText(url) {
-  const res = await fetch(url, { headers: { 'User-Agent': 'toya-feed-aggregator/1.0' } });
+  const res = await fetch(url, { headers: FETCH_HEADERS });
   if (!res.ok) throw new Error(`${url} -> HTTP ${res.status}`);
   return res.text();
 }
 
 async function fetchJson(url) {
-  const res = await fetch(url, { headers: { 'User-Agent': 'toya-feed-aggregator/1.0' } });
+  const res = await fetch(url, { headers: FETCH_HEADERS });
   if (!res.ok) throw new Error(`${url} -> HTTP ${res.status}`);
   return res.json();
 }
