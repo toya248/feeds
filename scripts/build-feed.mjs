@@ -41,6 +41,12 @@ const SOURCES = [
     kind: 'rss',
     url: 'https://diary.toya.blog/rss',
   },
+  {
+    id: 'cooking',
+    label: '料理ブログ',
+    kind: 'rss',
+    url: 'https://cooking-for-golden-age.hatenablog.com/rss',
+  },
   // Substack (toya.substack.com/feed) is intentionally excluded: Cloudflare
   // blocks requests from GitHub Actions runner IPs with a 403, regardless of
   // User-Agent, so it can't be fetched reliably in CI. Linked statically
