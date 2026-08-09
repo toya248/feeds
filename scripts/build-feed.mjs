@@ -41,12 +41,10 @@ const SOURCES = [
     kind: 'rss',
     url: 'https://diary.toya.blog/rss',
   },
-  {
-    id: 'substack',
-    label: 'ニュースレター',
-    kind: 'rss',
-    url: 'https://toya.substack.com/feed',
-  },
+  // Substack (toya.substack.com/feed) is intentionally excluded: Cloudflare
+  // blocks requests from GitHub Actions runner IPs with a 403, regardless of
+  // User-Agent, so it can't be fetched reliably in CI. Linked statically
+  // from index.html instead.
 ];
 
 function decodeEntities(text = '') {
