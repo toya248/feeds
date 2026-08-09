@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>toya feeds</title>
+<style>
+  :root {
+    color-scheme: light dark;
+    --bg: #fafafa;
+    --fg: #1c1c1c;
+    --muted: #6b6b6b;
+    --border: #e3e3e3;
+    --card-bg: #ffffff;
+    --accent: #2b6cb0;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #16181c;
+      --fg: #ececec;
+      --muted: #9a9a9a;
+      --border: #2c2f34;
+      --card-bg: #1e2126;
+      --accent: #6fa8dc;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    padding: 2.5rem 1.25rem 5rem;
+    background: var(--bg);
+    color: var(--fg);
+    font-family: -apple-system, BlinkMacSystemFont, "Hiragino Sans", "Yu Gothic", sans-serif;
+    line-height: 1.7;
+  }
+  main {
+    max-width: 680px;
+    margin: 0 auto;
+  }
+  header {
+    margin-bottom: 2.5rem;
+  }
+  h1 {
+    font-size: 1.4rem;
+    margin: 0 0 0.4rem;
+  }
+  header p {
+    margin: 0;
+    color: var(--muted);
+    font-size: 0.9rem;
+  }
+  ul.entries {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  .entry {
+    display: block;
+    padding: 1rem 0;
+    border-bottom: 1px solid var(--border);
+    text-decoration: none;
+    color: inherit;
+  }
+  .entry:hover .entry-title {
+    color: var(--accent);
+  }
+  .entry-meta {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 0.78rem;
+    color: var(--muted);
+    margin-bottom: 0.3rem;
+  }
+  .badge {
+    display: inline-block;
+    padding: 0.1rem 0.5rem;
+    border-radius: 999px;
+    border: 1px solid var(--border);
+    font-size: 0.72rem;
+    white-space: nowrap;
+  }
+  .entry-title {
+    font-size: 1rem;
+    font-weight: 600;
+    margin: 0 0 0.3rem;
+  }
+  .entry-summary {
+    margin: 0;
+    color: var(--muted);
+    font-size: 0.88rem;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+  }
+  .status {
+    color: var(--muted);
+    font-size: 0.9rem;
+  }
+  .links {
+    margin-top: 3rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid var(--border);
+  }
+  .links h2 {
+    font-size: 0.95rem;
+    color: var(--muted);
+    margin: 0 0 0.75rem;
+  }
+  .links ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.6rem;
+  }
+  .links a {
+    display: inline-block;
+    padding: 0.4rem 0.8rem;
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    color: inherit;
+    text-decoration: none;
+    font-size: 0.85rem;
+  }
+  .links a:hover {
+    border-color: var(--accent);
+    color: var(--accent);
+  }
+  footer {
+    margin-top: 2.5rem;
+    color: var(--muted);
+    font-size: 0.78rem;
+  }
+</style>
+</head>
+<body>
+<main>
+  <header>
+    <h1>toya feeds</h1>
+    <p>X, Bluesky, Mastodon, YouTube, ブログなどの更新をまとめて表示しています。</p>
+  </header>
+
+  <p id="status" class="status">読み込み中…</p>
+  <ul id="entries" class="entries"></ul>
+
+  <div class="links">
+    <h2>自動取得していないもの</h2>
+    <ul>
+      <li><a href="https://x.com/toya" target="_blank" rel="noopener">X</a></li>
+      <li><a href="https://stand.fm/channels/6a5bf1a921b18bf05ca33995" target="_blank" rel="noopener">stand.fm（とやラジオ）</a></li>
+    </ul>
+  </div>
+
+  <footer id="generated-at"></footer>
+</main>
+
+<script>
+  const SOURCE_LABELS = {
+    bluesky: 'Bluesky',
+    mastodon: 'Mastodon',
+    youtube: 'YouTube',
+    hatena: 'ブログ',
+    diary: '日記',
+    substack: 'ニュースレター',
+  };
+
+  function escapeHtml(text) {
+    const div = document.createElement('div');
+    div.textContent = text ?? '';
+    return div.innerHTML;
+  }
+
+  function formatDate(iso) {
+    if (!iso) return '';
+    const d = new Date(iso);
+    return d.toLocaleString('ja-JP', {
+      year: 'numeric', month: '2-digit', day: '2-digit',
+      hour: '2-digit', minute: '2-digit',
+    });
+  }
+
+  function renderEntries(entries) {
+    const list = document.getElementById('entries');
+    const status = document.getElementById('status');
+    if (entries.length === 0) {
+      status.textContent = '表示できる項目がありません。';
+      return;
+    }
+    status.remove();
+    list.innerHTML = entries.map((entry) => `
+      <li>
+        <a class="entry" href="${escapeHtml(entry.url)}" target="_blank" rel="noopener">
+          <div class="entry-meta">
+            <span class="badge">${escapeHtml(SOURCE_LABELS[entry.source] ?? entry.sourceLabel ?? entry.source)}</span>
+            <span>${escapeHtml(formatDate(entry.publishedAt))}</span>
+          </div>
+          <p class="entry-title">${escapeHtml(entry.title)}</p>
+          ${entry.summary ? `<p class="entry-summary">${escapeHtml(entry.summary)}</p>` : ''}
+        </a>
+      </li>
+    `).join('');
+  }
+
+  fetch('data/feed.json', { cache: 'no-store' })
+    .then((res) => {
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      return res.json();
+    })
+    .then((data) => {
+      renderEntries(data.entries ?? []);
+      const genEl = document.getElementById('generated-at');
+      if (data.generatedAt) {
+        genEl.textContent = `最終更新: ${formatDate(data.generatedAt)}`;
+      }
+    })
+    .catch((err) => {
+      document.getElementById('status').textContent = `読み込みに失敗しました: ${err.message}`;
+    });
+</script>
+</body>
+</html>
