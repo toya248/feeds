@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-08-09T05:03:39.207Z",
+  "generatedAt": "2026-08-09T10:55:41.632Z",
   "entries": [
+    {
+      "source": "mastodon",
+      "sourceLabel": "Mastodon",
+      "title": "フィードまとめページを作ったのでここにもいろいろ書きやすくなった（どこに何を書いたかわかんなくなり気味だった）",
+      "url": "https://mstdn.toya.blog/@toya/117064168522909191",
+      "publishedAt": "2026-08-09T06:37:34.000Z",
+      "summary": "フィードまとめページを作ったのでここにもいろいろ書きやすくなった（どこに何を書いたかわかんなくなり気味だった）"
+    },
+    {
+      "source": "mastodon",
+      "sourceLabel": "Mastodon",
+      "title": "Claude Codeに相談したらシュッと自分のフィードまとめページを作ってくれた、すごいhttps://toya248…",
+      "url": "https://mstdn.toya.blog/@toya/117063810193944314",
+      "publishedAt": "2026-08-09T05:06:26.000Z",
+      "summary": "Claude Codeに相談したらシュッと自分のフィードまとめページを作ってくれた、すごいhttps://toya248.github.io/feeds/"
+    },
     {
       "source": "mastodon",
       "sourceLabel": "Mastodon",
@@ -242,14 +258,6 @@
       "summary": "身の回りの人がポッドキャストをやっているのに影響されて、stand.fmでごく短い尺のポッドキャストを始めました。名前は「とやラジオ」です。そのまんまだ。stand.fmSpotifyとSubstackでも配信しています！open.spotify.comtoya.substack.com毎週月曜更新を目指しています！で…"
     },
     {
-      "source": "mastodon",
-      "sourceLabel": "Mastodon",
-      "title": "「グレード」という言葉 - 真夏に悪い夢を見るhttps://diary.toya.blog/entry/2026/08…",
-      "url": "https://mstdn.toya.blog/@toya/117026021741679593",
-      "publishedAt": "2026-08-02T12:56:20.000Z",
-      "summary": "「グレード」という言葉 - 真夏に悪い夢を見るhttps://diary.toya.blog/entry/2026/08/02/215453"
-    },
-    {
       "source": "bluesky",
       "sourceLabel": "Bluesky",
       "title": "「グレード」という言葉 - 真夏に悪い夢を見る\ndiary.toya.blog/entry/2026/0...",
@@ -264,14 +272,6 @@
       "url": "https://diary.toya.blog/entry/2026/08/02/215453",
       "publishedAt": "2026-08-02T12:54:53.000Z",
       "summary": "今日は久しぶり？にサブスク記事っぽい話を書きます。前職は7月が期末で、8月が期初でした。評価がだいたい6月から7月にかけて行われます。私はこの「評価」というのが本当に苦手で、前職に限らず、前々職でもその前でも*1、いわゆる「振り返り」に何を書いていいかわからなかったし、その結果返ってくる「評価」にもあんまりぴんときたこ…"
-    },
-    {
-      "source": "mastodon",
-      "sourceLabel": "Mastodon",
-      "title": "ブローガスト2日目の記事です「ウィークリーとや」で自分の行動分析をしている - Really Saying Someth…",
-      "url": "https://mstdn.toya.blog/@toya/117022739947826111",
-      "publishedAt": "2026-08-01T23:01:44.000Z",
-      "summary": "ブローガスト2日目の記事です「ウィークリーとや」で自分の行動分析をしている - Really Saying Somethinghttps://toya.hatenablog.com/entry/2026/08/02/003000"
     },
     {
       "source": "hatena",
@@ -336,6 +336,14 @@
       "url": "https://cooking-for-golden-age.hatenablog.com/entry/2026/07/14/200855",
       "publishedAt": "2026-07-14T11:08:55.000Z",
       "summary": "料理が苦手だ、とずっと言い続けてきた。結婚して自分たちの世帯を持ってからもずっと苦手だ。正確に言うと、レシピ通りに作ることはできる。ハンバーグも、ちょっと込み入ったものも、見た目はともかくおしゃれな料理も作れる。それでも苦手は消えることはなかったし、実際、料理ブログと銘打って始めたはずのこのブログの更新は14ヶ月空いて…"
+    },
+    {
+      "source": "colorweaver",
+      "sourceLabel": "ログとレンズ",
+      "title": "#ZINEフェス東京 （7/11@東京都立産業貿易センター 台東館4階A-2）お品書き",
+      "url": "https://colorweaver.hatenablog.com/entry/2026/07/07/171743",
+      "publishedAt": "2026-07-07T08:17:43.000Z",
+      "summary": "今週末、7/11（土）に開催される「ZINEフェス東京」（東京都立産業貿易センター 台東館）での配置が決まりました！4階と5階の2フロアありまして、その4階の「A-2」です！交通アクセス、私自身もよくわからなくなるので、まずはそれを貼ります。交通アクセス | 台東館 | 東京都立産業貿易センター5月から6月にかけて勢い…"
     },
     {
       "source": "diary",
@@ -410,6 +418,78 @@
       "summary": "このブログを作ってから1年と3ヶ月が経ちましたが、料理、してないです。ブログドリブンで何かやり始めるだろうと思ったんですけど、下書きに料理の写真が溜まるものの、丁寧な料理とは程遠いものばかりになってしまって、そのうち文章を書くのが面倒になって、放置する……というパターンにはまってしまいました。そうこうしているうちに、健…"
     },
     {
+      "source": "colorweaver",
+      "sourceLabel": "ログとレンズ",
+      "title": "ZINEフェス東京への準備",
+      "url": "https://colorweaver.hatenablog.com/entry/2026/06/05/140418",
+      "publishedAt": "2026-06-05T05:04:18.000Z",
+      "summary": "立て続けにZINEを2冊作った。5月から6月にかけて計3冊。こんなに書きたいこと、表現したいことがあったのかと自分でもびっくりしている。ZINEフェス東京（2026年7月11日（土）、東京都立産業貿易センター 台東館 4階・5階）には以下の3冊を持っていくつもりだ。 Focal Point 50/51 思考のデフラグと…"
+    },
+    {
+      "source": "colorweaver",
+      "sourceLabel": "ログとレンズ",
+      "title": "ドーナツを4つ食べた",
+      "url": "https://colorweaver.hatenablog.com/entry/2026/05/24/232917",
+      "publishedAt": "2026-05-24T14:29:17.000Z",
+      "summary": "ミスタードーナツがある街へ行くとテンションが上がる。過去に暮らした街・勤めた街の多くにはミスタードーナツがなかった。少し遠くに行くとある。この「少し遠く」がくせもので、ほどよく出かけたという事実と相まって、特別なものをそっと手に入れるような、しかしどこか後ろめたいような、うすぼんやりとした特別な感情に包まれる。そして、…"
+    },
+    {
+      "source": "colorweaver",
+      "sourceLabel": "ログとレンズ",
+      "title": "恋愛体質へのコンプレックスがいつしか消えていた",
+      "url": "https://colorweaver.hatenablog.com/entry/2026/05/16/171715",
+      "publishedAt": "2026-05-16T08:17:15.000Z",
+      "summary": "恋愛体質ではないことにコンプレックスを抱いていた時期が確かにあった。20代の頃に知り合った女子は、たいてい誰かと恋愛をしていて、身の上にドラマチックなことが起きたり、さまざまな人と出会ったり別れたりしていて、傍目から見てそれはそれは面白そうな人生のように思えた。翻って私は、高校時代から長く付き合っていた人に束縛されるこ…"
+    },
+    {
+      "source": "colorweaver",
+      "sourceLabel": "ログとレンズ",
+      "title": "ZINE「Focal Point 50/51」ができた",
+      "url": "https://colorweaver.hatenablog.com/entry/2026/05/15/220913",
+      "publishedAt": "2026-05-15T13:09:13.000Z",
+      "summary": "絶賛印刷中なので届いたら紹介します、と書いたZINEが今日無事に届いた。本名で作った本で、デザインも何もかも自分でやった。そんなことで本ができるのか、本当に手探りだったが、Claudeが壁打ちの相手をしてくれて無事形になり、入稿し、本が届いた。特にイベントに出すあてもなく！情熱駆動で10日くらいしたら本ができたわけで、…"
+    },
+    {
+      "source": "colorweaver",
+      "sourceLabel": "ログとレンズ",
+      "title": "自撮りを苦手に思う心を変えられないのだが",
+      "url": "https://colorweaver.hatenablog.com/entry/2026/05/15/174537",
+      "publishedAt": "2026-05-15T08:45:37.000Z",
+      "summary": "自撮りが苦手である。雨宮まみさんの連載「40歳がくる！」にも自撮りの話が収録されており、自撮りが苦手だった彼女がコスプレをして写真を撮ってみた、というエピソードが書かれていたはずだったのだが、書籍化された際にWeb連載の方は取り下げられてしまったようで、原文に当たれなかった。その頃に「自撮りは難しいけれど、どんどん撮っ…"
+    },
+    {
+      "source": "colorweaver",
+      "sourceLabel": "ログとレンズ",
+      "title": "ソバーキュリアスと聞くと「蕎麦」を連想しませんか",
+      "url": "https://colorweaver.hatenablog.com/entry/2026/05/14/225059",
+      "publishedAt": "2026-05-14T13:50:59.000Z",
+      "summary": "ソバーキュリアスという言葉にいまいち慣れていない。「お酒は飲めるけれど、あえてお酒を飲まない選択をすること」という意味だという。下戸だと確かに「お酒が飲めない」を意味するのでぴたっと合わない。若い頃は体力と肝臓の能力に任せて「飲める人」だと思い込んでいたが、年々弱くなり、今では「サワー2杯」が限度になっている。家では酒…"
+    },
+    {
+      "source": "colorweaver",
+      "sourceLabel": "ログとレンズ",
+      "title": "合う合わない",
+      "url": "https://colorweaver.hatenablog.com/entry/2026/05/13/201937",
+      "publishedAt": "2026-05-13T11:19:37.000Z",
+      "summary": "絶対に気が合わないな（嫌いというわけではない）と思う書き手の方の存在をすっかり忘れていて、久しぶりにある出来事をきっかけに思い出したので、観測しに行ったら、やっぱりこの人と私は合わないと思うという身も蓋もない結論に至った。私はこういうことをしがちな人物である。ネガティブ寄りな印象を抱いている人のことを忘れきってしまえば…"
+    },
+    {
+      "source": "colorweaver",
+      "sourceLabel": "ログとレンズ",
+      "title": "「レーベル」を名乗るということ",
+      "url": "https://colorweaver.hatenablog.com/entry/2026/05/13/162557",
+      "publishedAt": "2026-05-13T07:25:57.000Z",
+      "summary": "個人で屋号を持って活動するのがかっこいいと思っていた時期があった。だいぶ昔に知人が個人事業主になる時、屋号を名乗るんだと教えてくれたことがあって、独立することなんて視野になかった私にとってはまぶしく映った。しかし、昨今の同人誌・ZINE事情を見ると、自分で屋号を作って名乗って本を出しているサークル（？）が増えた。私が好…"
+    },
+    {
+      "source": "colorweaver",
+      "sourceLabel": "ログとレンズ",
+      "title": "白黒のポテチ",
+      "url": "https://colorweaver.hatenablog.com/entry/2026/05/12/181922",
+      "publishedAt": "2026-05-12T09:19:22.000Z",
+      "summary": "なかなか進まない原稿をごにょごにょやっていたら進捗が出たのでほっとした。「日本人的無宗教」ではあるが、文章の神様というのは確かにいるもんだなと思っている。できれば毎日降臨してほしい。毎日毎日高市政権のやることなすことにぷりぷり怒っている。Xには繰り返し書いているが、私は高市早苗という政治家が昔から本当に嫌いなので、一刻…"
+    },
+    {
       "source": "youtube",
       "sourceLabel": "YouTube",
       "title": "文学フリマ東京",
@@ -418,11 +498,35 @@
       "summary": ""
     },
     {
+      "source": "hateblo",
+      "sourceLabel": "写真ブログ",
+      "title": "SONY VLOGCAM ZV-E10＋SIGMA 30mm F1.4 DC DN＋Kenko ブラックミスト プロテクター",
+      "url": "https://toya.hateblo.jp/entry/2026/04/29/222500",
+      "publishedAt": "2026-04-29T13:25:00.000Z",
+      "summary": ""
+    },
+    {
+      "source": "hateblo",
+      "sourceLabel": "写真ブログ",
+      "title": "Z 5II + NIKKOR Z 40mm f/2",
+      "url": "https://toya.hateblo.jp/entry/2026/04/29/202820",
+      "publishedAt": "2026-04-29T11:28:20.000Z",
+      "summary": ""
+    },
+    {
       "source": "youtube",
       "sourceLabel": "YouTube",
       "title": "西新井大師、曇天",
       "url": "https://www.youtube.com/watch?v=LkU3OSqdADk",
       "publishedAt": "2026-04-29T03:55:00.000Z",
+      "summary": ""
+    },
+    {
+      "source": "hateblo",
+      "sourceLabel": "写真ブログ",
+      "title": "Z 5II + NIKKOR Z 40mm f/2",
+      "url": "https://toya.hateblo.jp/entry/2026/04/28/185850",
+      "publishedAt": "2026-04-28T09:58:50.000Z",
       "summary": ""
     },
     {
@@ -442,6 +546,14 @@
       "summary": ""
     },
     {
+      "source": "hateblo",
+      "sourceLabel": "写真ブログ",
+      "title": "X-T30ii＋XC15-45mmF3.5-5.6 OIS PZ",
+      "url": "https://toya.hateblo.jp/entry/2026/04/05/163007",
+      "publishedAt": "2026-04-05T07:30:07.000Z",
+      "summary": "もうだいぶ散りかけてましたがプチお花見。"
+    },
+    {
       "source": "youtube",
       "sourceLabel": "YouTube",
       "title": "プチお花見、目黒区",
@@ -450,11 +562,43 @@
       "summary": ""
     },
     {
+      "source": "hateblo",
+      "sourceLabel": "写真ブログ",
+      "title": "X-T30II＋XF70-300mmF4-5.6 R LM OIS WR",
+      "url": "https://toya.hateblo.jp/entry/2026/03/29/190804",
+      "publishedAt": "2026-03-29T10:08:04.000Z",
+      "summary": "猫成分を摂取しに猫カフェに行きました。"
+    },
+    {
       "source": "youtube",
       "sourceLabel": "YouTube",
       "title": "六本木ヒルズ、昼間",
       "url": "https://www.youtube.com/watch?v=81ApDvfSfMc",
       "publishedAt": "2026-03-15T05:42:36.000Z",
+      "summary": ""
+    },
+    {
+      "source": "hateblo",
+      "sourceLabel": "写真ブログ",
+      "title": "PENTAX Q7＋PENTAX-01 STANDARD PRIME",
+      "url": "https://toya.hateblo.jp/entry/2026/01/03/201122",
+      "publishedAt": "2026-01-03T11:11:22.000Z",
+      "summary": ""
+    },
+    {
+      "source": "hateblo",
+      "sourceLabel": "写真ブログ",
+      "title": "D7000＋18-250mm F3.5-6.3 DC MACRO OS HSM",
+      "url": "https://toya.hateblo.jp/entry/2026/01/02/190734",
+      "publishedAt": "2026-01-02T10:07:34.000Z",
+      "summary": ""
+    },
+    {
+      "source": "hateblo",
+      "sourceLabel": "写真ブログ",
+      "title": "D7000＋18-250mm F3.5-6.3 DC MACRO OS HSM",
+      "url": "https://toya.hateblo.jp/entry/2025/06/09/191451",
+      "publishedAt": "2025-06-09T10:14:51.000Z",
       "summary": ""
     },
     {
@@ -472,6 +616,22 @@
       "url": "https://cooking-for-golden-age.hatenablog.com/entry/2025/03/24/171532",
       "publishedAt": "2025-03-24T08:15:32.000Z",
       "summary": "あともう3ヶ月弱で、私は50歳になる。自分の健康上の理由および家族の健康上の懸念により、これまでなんだかんだと理由を付けて逃げ回ってきた「料理」というものに、そろそろきちんと向き合わなければならなくなってきた。これまでも料理本を買うことだけは好きで、いろいろな本を買ってきた。が、それが台所事情に直結することはほぼなかっ…"
+    },
+    {
+      "source": "hateblo",
+      "sourceLabel": "写真ブログ",
+      "title": "Leitz Phone 1",
+      "url": "https://toya.hateblo.jp/entry/2025/01/22/183947",
+      "publishedAt": "2025-01-22T09:39:47.000Z",
+      "summary": ""
+    },
+    {
+      "source": "hateblo",
+      "sourceLabel": "写真ブログ",
+      "title": "Leitz Phone 1",
+      "url": "https://toya.hateblo.jp/entry/2025/01/13/192242",
+      "publishedAt": "2025-01-13T10:22:42.000Z",
+      "summary": ""
     }
   ]
 }
