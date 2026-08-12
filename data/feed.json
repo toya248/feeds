@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-08-11T21:41:44.463Z",
+  "generatedAt": "2026-08-12T01:40:07.912Z",
   "entries": [
+    {
+      "source": "mastodon",
+      "sourceLabel": "Mastodon",
+      "title": "ブローガスト12日目の記事ですお盆の時期という理由ではないが、ふと父親のことを考えた - Really Saying S…",
+      "url": "https://mstdn.toya.blog/@toya/117079933770108564",
+      "publishedAt": "2026-08-12T01:26:52.000Z",
+      "summary": "ブローガスト12日目の記事ですお盆の時期という理由ではないが、ふと父親のことを考えた - Really Saying Somethinghttps://toya.hatenablog.com/entry/2026/08/12/003000"
+    },
+    {
+      "source": "bluesky",
+      "sourceLabel": "Bluesky",
+      "title": "ブローガスト12日目の記事です\n\nお盆の時期という理由ではないが、ふと父親のことを考えた - Really Saying…",
+      "url": "https://bsky.app/profile/toya.bsky.social/post/3mstxxdc6qs2b",
+      "publishedAt": "2026-08-12T01:26:38.263Z",
+      "summary": "ブローガスト12日目の記事です\n\nお盆の時期という理由ではないが、ふと父親のことを考えた - Really Saying Something\ntoya.hatenablog.com/entry/2026/0..."
+    },
     {
       "source": "hatena",
       "sourceLabel": "ブログ (はてな)",
@@ -144,14 +160,6 @@
       "url": "https://mstdn.toya.blog/@toya/117064168522909191",
       "publishedAt": "2026-08-09T06:37:34.000Z",
       "summary": "フィードまとめページを作ったのでここにもいろいろ書きやすくなった（どこに何を書いたかわかんなくなり気味だった）"
-    },
-    {
-      "source": "mastodon",
-      "sourceLabel": "Mastodon",
-      "title": "Claude Codeに相談したらシュッと自分のフィードまとめページを作ってくれた、すごいhttps://toya248…",
-      "url": "https://mstdn.toya.blog/@toya/117063810193944314",
-      "publishedAt": "2026-08-09T05:06:26.000Z",
-      "summary": "Claude Codeに相談したらシュッと自分のフィードまとめページを作ってくれた、すごいhttps://toya248.github.io/feeds/"
     },
     {
       "source": "bluesky",
