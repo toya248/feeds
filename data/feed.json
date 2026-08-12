@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-08-12T13:01:28.210Z",
+  "generatedAt": "2026-08-12T15:56:14.471Z",
   "entries": [
+    {
+      "source": "hatena",
+      "sourceLabel": "ブログ (はてな)",
+      "title": "18年間ニコンFマウント（とXマウント）を使ってきた人間が、Zマウントに一本化した話",
+      "url": "https://toya.hatenablog.com/entry/2026/08/13/003000",
+      "publishedAt": "2026-08-12T15:30:00.000Z",
+      "summary": "2026年のGWに、ニコンのZ 5II、Z 24-120mm f/4 S、Z 40mm f/2を買いました。D60を手にした2008年8月から、ずっとずっとお世話になってきたニコンFマウントのカメラとレンズをすべて売却してのマウント乗り換えでした。Nikon ミラーレス一眼 Z5II ボディ Zマウント フルサイズNi…"
+    },
     {
       "source": "bluesky",
       "sourceLabel": "Bluesky",
@@ -296,14 +304,6 @@
       "url": "https://diary.toya.blog/entry/2026/08/03/053511",
       "publishedAt": "2026-08-02T20:35:11.000Z",
       "summary": "とやラジオ第4回、「写真を見せずに、写真の話をする」で紹介した写真の、答え合わせ用ページです。 .standfm-embed-iframe { height: 190px; } @media only screen and (max-device-width: 480px) { .standfm-embed-ifram…"
-    },
-    {
-      "source": "hatena",
-      "sourceLabel": "ブログ (はてな)",
-      "title": "一人語りポッドキャスト「とやラジオ」を始めていました",
-      "url": "https://toya.hatenablog.com/entry/2026/08/03/003000",
-      "publishedAt": "2026-08-02T15:30:00.000Z",
-      "summary": "身の回りの人がポッドキャストをやっているのに影響されて、stand.fmでごく短い尺のポッドキャストを始めました。名前は「とやラジオ」です。そのまんまだ。stand.fmSpotifyとSubstackでも配信しています！open.spotify.comtoya.substack.com毎週月曜更新を目指しています！で…"
     },
     {
       "source": "diary",
