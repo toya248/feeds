@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-08-22T15:16:51.399Z",
+  "generatedAt": "2026-08-22T18:24:32.191Z",
   "entries": [
+    {
+      "source": "hatena",
+      "sourceLabel": "ブログ (はてな)",
+      "title": "Canvaから移行して、Affinityの「レイアウト」（旧Affinity Publisher）でZINEを作ってみた",
+      "url": "https://toya.hatenablog.com/entry/2026/08/23/003000",
+      "publishedAt": "2026-08-22T15:30:00.000Z",
+      "summary": "8/17の記事で書いた通り、私は3冊のZINEを「Canva」で作っていたのですが、4冊目は「Affinity」の「レイアウト」機能を使って作ってみました。Affinityというのは、Adobeに置き換えると、IllustratorとPhotoshopとInDesignをがっちゃんこしたような統合ソフトです。ダウンロー…"
+    },
     {
       "source": "mastodon",
       "sourceLabel": "Mastodon",
@@ -264,14 +272,6 @@
       "url": "https://diary.toya.blog/entry/2026/08/13/201700",
       "publishedAt": "2026-08-13T11:17:00.000Z",
       "summary": "ふと、実家にはねずみが棲んでいることを思い出した。きっかけはたぶん、吉本ばななさんとお姉さんを巡るnoteなんじゃないかと思う*1。あのnoteのことを思い出して、そういえばお姉さんはねずみがきっかけで病気になったんじゃなかったっけ、実家にもねずみがいるという連絡が来たことがあるな、と連想ゲームのように考えたのだった。…"
-    },
-    {
-      "source": "hatena",
-      "sourceLabel": "ブログ (はてな)",
-      "title": "18年間ニコンFマウント（とXマウント）を使ってきた人間が、Zマウントに一本化した話",
-      "url": "https://toya.hatenablog.com/entry/2026/08/13/003000",
-      "publishedAt": "2026-08-12T15:30:00.000Z",
-      "summary": "2026年のGWに、ニコンのZ 5II、Z 24-120mm f/4 S、Z 40mm f/2を買いました。D60を手にした2008年8月から、ずっとずっとお世話になってきたニコンFマウントのカメラとレンズをすべて売却してのマウント乗り換えでした。Nikon ミラーレス一眼 Z5II ボディ Zマウント フルサイズNi…"
     },
     {
       "source": "hateblo",
