@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-08-22T21:18:18.091Z",
+  "generatedAt": "2026-08-23T01:06:29.384Z",
   "entries": [
+    {
+      "source": "mastodon",
+      "sourceLabel": "Mastodon",
+      "title": "ブローガスト23日目の記事ですCanvaから移行して、Affinityの「レイアウト」（旧Affinity Publis…",
+      "url": "https://mstdn.toya.blog/@toya/117141417726640517",
+      "publishedAt": "2026-08-22T22:03:03.000Z",
+      "summary": "ブローガスト23日目の記事ですCanvaから移行して、Affinityの「レイアウト」（旧Affinity Publisher）でZINEを作ってみた - Really Saying Somethinghttps://toya.hatenablog.com/entry/2026/08/23/003000"
+    },
+    {
+      "source": "bluesky",
+      "sourceLabel": "Bluesky",
+      "title": "ブローガスト23日目の記事です\n\nCanvaから移行して、Affinityの「レイアウト」（旧Affinity Publ…",
+      "url": "https://bsky.app/profile/toya.bsky.social/post/3mtpbowk2i22t",
+      "publishedAt": "2026-08-22T22:02:46.808Z",
+      "summary": "ブローガスト23日目の記事です\n\nCanvaから移行して、Affinityの「レイアウト」（旧Affinity Publisher）でZINEを作ってみた - Really Saying Something\ntoya.hatenablog.com/entry/2026/0..."
+    },
     {
       "source": "hatena",
       "sourceLabel": "ブログ (はてな)",
@@ -154,14 +170,6 @@
       "summary": "ブローガスト19日目の記事です2001年に書いた記事『風景の持つ意味』に、25年後の私が注をつけてみた - Really Saying Somethinghttps://toya.hatenablog.com/entry/2026/08/19/003000"
     },
     {
-      "source": "bluesky",
-      "sourceLabel": "Bluesky",
-      "title": "ブローガスト19日目の記事です\n\n2001年に書いた記事『風景の持つ意味』に、25年後の私が注をつけてみた - Real…",
-      "url": "https://bsky.app/profile/toya.bsky.social/post/3mtf7xw76bk2i",
-      "publishedAt": "2026-08-18T22:05:23.574Z",
-      "summary": "ブローガスト19日目の記事です\n\n2001年に書いた記事『風景の持つ意味』に、25年後の私が注をつけてみた - Really Saying Something\ntoya.hatenablog.com/entry/2026/0..."
-    },
-    {
       "source": "hatena",
       "sourceLabel": "ブログ (はてな)",
       "title": "2001年に書いた記事『風景の持つ意味』に、25年後の私が注をつけてみた",
@@ -232,14 +240,6 @@
       "url": "https://toya.hatenablog.com/entry/2026/08/17/003000",
       "publishedAt": "2026-08-16T15:30:00.000Z",
       "summary": "去る7/11に東京都立産業貿易センター 台東館で開催された「ZINEフェス東京」で、 ブログに付属した製本サービスを使わずに 自分の手で割付をして 自分でデザインもやった ZINEを3冊、頒布しました。著者名は「toya」ではなく本名です。画像を見ると本名が丸わかりなのですが、ZINEを出す時は本名でやっていくことを決…"
-    },
-    {
-      "source": "mastodon",
-      "sourceLabel": "Mastodon",
-      "title": "お盆最終日だというのに体がだるくてアクティブになれぬ",
-      "url": "https://mstdn.toya.blog/@toya/117103095187241605",
-      "publishedAt": "2026-08-16T03:37:08.000Z",
-      "summary": "お盆最終日だというのに体がだるくてアクティブになれぬ"
     },
     {
       "source": "hatena",
