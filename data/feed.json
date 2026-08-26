@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-08-26T09:36:33.313Z",
+  "generatedAt": "2026-08-26T12:44:11.832Z",
   "entries": [
+    {
+      "source": "diary",
+      "sourceLabel": "日記",
+      "title": "8/26（今日）入手した本3冊",
+      "url": "https://diary.toya.blog/entry/2026/08/26/205645",
+      "publishedAt": "2026-08-26T11:56:45.000Z",
+      "summary": "ばらけさせて買ってるつもりなんだけど……なぜか今日集中して届いて……しかもリアル書店で1冊本を買ってしまった。ばかかな？買った本メモです。 増補改訂版 Affinityの教科書 ［増補改訂版］Affinityの教科書（V3対応）作者:堀江ヒデアキビー・エヌ・エヌ新社AmazonAffinityを入れたので、もう少しでき…"
+    },
     {
       "source": "mastodon",
       "sourceLabel": "Mastodon",
@@ -376,14 +384,6 @@
       "url": "https://diary.toya.blog/entry/2026/07/20/150058",
       "publishedAt": "2026-07-20T06:00:58.000Z",
       "summary": "WW880BA7 D 235new balance(ニューバランス)Amazon↑これと同じやつスニーカーが欲しくて、でも靴を買いに行くのがとてもとても苦手なのでClaudeとChatGPTとGeminiに相談しまくり、ニューバランスの880を最終的にABCマートで買いました。旗艦店まで行ったんですが、型番の見方が全く…"
-    },
-    {
-      "source": "diary",
-      "sourceLabel": "日記",
-      "title": "Premiere Proを契約してみた",
-      "url": "https://diary.toya.blog/entry/2026/07/14/205633",
-      "publishedAt": "2026-07-14T11:56:33.000Z",
-      "summary": "ちょっとした動画を編集するのにCapCutを使っていたのだけど、本格的な動画編集ソフトを試してみたくなったので、AdobeのPremiere Proを契約してみた。飽きたら解約するつもりで。あまりにも高性能すぎてちょっと持て余すかもな、と思ったのはそれはそれで当たりのような気がするけど、スマートフォンアプリの小さい画面…"
     },
     {
       "source": "cooking",
