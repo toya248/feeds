@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-08-28T00:13:06.334Z",
+  "generatedAt": "2026-08-28T14:51:37.536Z",
   "entries": [
+    {
+      "source": "bluesky",
+      "sourceLabel": "Bluesky",
+      "title": "ベータの頃にフォロー頑張ってたんですが、あんまり意味がない感じですよね",
+      "url": "https://bsky.app/profile/toya.bsky.social/post/3mu52sqscic27",
+      "publishedAt": "2026-08-28T09:36:55.150Z",
+      "summary": "ベータの頃にフォロー頑張ってたんですが、あんまり意味がない感じですよね"
+    },
     {
       "source": "mastodon",
       "sourceLabel": "Mastodon",
@@ -120,14 +128,6 @@
       "url": "https://bsky.app/profile/toya.bsky.social/post/3mtxncvbzl22m",
       "publishedAt": "2026-08-26T05:52:05.652Z",
       "summary": "なのでYAPC関連の会話では気をつけて「牧さん」と呼ぶようにしています"
-    },
-    {
-      "source": "bluesky",
-      "sourceLabel": "Bluesky",
-      "title": "牧さんのことをネット上で「daisukeさん」って呼ぶの、もはやネットの世界では私含めて5人くらいしかいないのではないか…",
-      "url": "https://bsky.app/profile/toya.bsky.social/post/3mtxnamvjnc2m",
-      "publishedAt": "2026-08-26T05:50:49.746Z",
-      "summary": "牧さんのことをネット上で「daisukeさん」って呼ぶの、もはやネットの世界では私含めて5人くらいしかいないのではないか？"
     },
     {
       "source": "hatena",
