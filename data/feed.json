@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-09-01T08:16:06.942Z",
+  "generatedAt": "2026-09-01T13:53:52.980Z",
   "entries": [
+    {
+      "source": "hatena",
+      "sourceLabel": "ブログ (はてな)",
+      "title": "8月に気合いを入れてブログの記事を毎日公開した結果",
+      "url": "https://toya.hatenablog.com/entry/2026/09/01/193227",
+      "publishedAt": "2026-09-01T10:32:27.000Z",
+      "summary": "ブローガスト*1の期間「毎日（31日連続）更新」を成し遂げてはみたものの、ブログを書く習慣が身についたか？というと、全くそういうことにはならなかった。「0:30に記事を公開予約設定しなくてもよくなったなぁ」と一瞬思っただけで、習慣としてはあっさり失われてしまった。書けそうなネタを見つけたらClaudeに覚えておいてもら…"
+    },
     {
       "source": "mastodon",
       "sourceLabel": "Mastodon",
@@ -232,14 +240,6 @@
       "url": "https://toya.hatenablog.com/entry/2026/08/23/003000",
       "publishedAt": "2026-08-22T15:30:00.000Z",
       "summary": "8/17の記事で書いた通り、私は3冊のZINEを「Canva」で作っていたのですが、4冊目は「Affinity」の「レイアウト」機能を使って作ってみました。Affinityというのは、Adobeに置き換えると、IllustratorとPhotoshopとInDesignをがっちゃんこしたような統合ソフトです。ダウンロー…"
-    },
-    {
-      "source": "hatena",
-      "sourceLabel": "ブログ (はてな)",
-      "title": "2020年の「数年使っていて気に入っているもの」、6年後にどうなったか",
-      "url": "https://toya.hatenablog.com/entry/2026/08/22/003000",
-      "publishedAt": "2026-08-21T15:30:00.000Z",
-      "summary": "2020年12月に、知人のブログに影響されて以下のような記事を書きました。toya.hatenablog.comたまたま「関連記事」で出てきて、懐かしくなりました。そこで、ここで挙げたものについて2026年8月現在どうなっているか、振り返ってみたいと思います。記事には「意外と移り気」と書きましたが、結果として、「移り気…"
     },
     {
       "source": "diary",
