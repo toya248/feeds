@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-09-03T02:49:04.904Z",
+  "generatedAt": "2026-09-03T07:44:43.323Z",
   "entries": [
+    {
+      "source": "mastodon",
+      "sourceLabel": "Mastodon",
+      "title": "Substackが微妙にnote化（クリエイターとか言っている……）しているのでニュースレターの発信場所を変えたいなと思…",
+      "url": "https://mstdn.toya.blog/@toya/117205425555802910",
+      "publishedAt": "2026-09-03T05:21:05.000Z",
+      "summary": "Substackが微妙にnote化（クリエイターとか言っている……）しているのでニュースレターの発信場所を変えたいなと思ったけど、日本語だと難しいですねえ"
+    },
+    {
+      "source": "bluesky",
+      "sourceLabel": "Bluesky",
+      "title": "結局VSCodeに戻してしまった……",
+      "url": "https://bsky.app/profile/toya.bsky.social/post/3mulosu42n22q",
+      "publishedAt": "2026-09-03T05:12:09.789Z",
+      "summary": "結局VSCodeに戻してしまった……"
+    },
     {
       "source": "bluesky",
       "sourceLabel": "Bluesky",
@@ -56,6 +72,14 @@
       "url": "https://bsky.app/profile/toya.bsky.social/post/3muechaaa622w",
       "publishedAt": "2026-08-31T06:42:16.784Z",
       "summary": "Larry Wall氏とMatz氏がYAPC::Tokyo 2026 1日目のオープニングセッション！な、なんだってー！（※Blueskyの皆さまにも知っていただきたくて持ってきました）\n\nx.com/yapcjapan/st..."
+    },
+    {
+      "source": "youtube",
+      "sourceLabel": "YouTube",
+      "title": "6年前に自分が編集した記事の、お皿を買った【#8】",
+      "url": "https://www.youtube.com/watch?v=oddo0369a30",
+      "publishedAt": "2026-08-31T01:21:11.000Z",
+      "summary": "突然器（うつわ）に興味を持って、美術館を巡り、イイホシユミコさんのお皿を買ったという話をしました。 ▼関連記事 ・「眼のごちそう 食器」（サントリー美術館）と「ルーシー・リー展―東西をつなぐ優美のうつわ―」（東京都庭園美術館）を見た - Really Saying Something https://toya.hate…"
     },
     {
       "source": "mastodon",
@@ -138,14 +162,6 @@
       "summary": "他のブログ記事やSNSには出さなかった写真、5枚です。"
     },
     {
-      "source": "bluesky",
-      "sourceLabel": "Bluesky",
-      "title": "お金のことって本当に教えてもらわないと何もわからないまま生きていくことになるんだなあ とや",
-      "url": "https://bsky.app/profile/toya.bsky.social/post/3mu7dxnkumc22",
-      "publishedAt": "2026-08-29T07:26:02.686Z",
-      "summary": "お金のことって本当に教えてもらわないと何もわからないまま生きていくことになるんだなあ とや"
-    },
-    {
       "source": "mastodon",
       "sourceLabel": "Mastodon",
       "title": "ブローガスト29日目の記事です。あと2日！根津美術館「やきもの名品紀行―中国・日本・朝鮮半島―」としぶや黒田陶苑「夏の陶…",
@@ -176,14 +192,6 @@
       "url": "https://toya.hatenablog.com/entry/2026/08/28/003000",
       "publishedAt": "2026-08-27T15:30:00.000Z",
       "summary": "一昨日（8月25日）、器作家・デザイナーのイイホシユミコさんのお皿を2枚買いました。「yumiko iihoshi porcelain 公式オンラインショップ」にて。予算内で「主菜用」と「副菜用」に違うタイプが買えたので、試しに2枚手に入れてみました。 unjour apres midi plate 220（nami）…"
-    },
-    {
-      "source": "mastodon",
-      "sourceLabel": "Mastodon",
-      "title": "ブローガスト27日目の記事です50歳を過ぎてから始めたものリスト - Really Saying Somethinght…",
-      "url": "https://mstdn.toya.blog/@toya/117164011479199280",
-      "publishedAt": "2026-08-26T21:48:56.000Z",
-      "summary": "ブローガスト27日目の記事です50歳を過ぎてから始めたものリスト - Really Saying Somethinghttps://toya.hatenablog.com/entry/2026/08/27/003000"
     },
     {
       "source": "hatena",
@@ -218,6 +226,14 @@
       "summary": "大阪・関西万博のキャラクター「ミャクミャク」のグッズを、未だに買い続けています。昨年10月の閉幕からもう10ヶ月以上経っているにもかかわらず、新作がガンガン出てくるので……。万博がらみになると財布の紐がゆるむどころか消し飛ぶ勢いになるので、もうそろそろ手じまいにならないものだろうか、と思いつつ、楽しみにしていたりもしま…"
     },
     {
+      "source": "youtube",
+      "sourceLabel": "YouTube",
+      "title": "一人語りが読み上げっぽくなる原因がわかった【#7】",
+      "url": "https://www.youtube.com/watch?v=HapRnVJzBoo",
+      "publishedAt": "2026-08-24T06:23:24.000Z",
+      "summary": "雑談系ポッドキャスト「キマグレエフエム」にゲスト出演してみて考えたことをお話ししました。 ▼キマグレエフエム 出演回 【336】実家への仕送りをやめた (ゲスト: toyaさん) | キマグレエフエム https://kimagurefm.pages.dev/ep/336/ 【337】書かずにはいられない (ゲスト: …"
+    },
+    {
       "source": "hatena",
       "sourceLabel": "ブログ (はてな)",
       "title": "器にほぼ興味がなかった私が、器の展覧会を2つはしごした",
@@ -250,6 +266,14 @@
       "summary": "1日目は有休の代わりに使ってしまいました。なので8/18が2日目です。 いきさつ 顔がかゆいとは 8/17（月）夜にギブアップした 8/18（火） なんだったのだろう これも書いておきたい いきさつ ざっくり8/1くらいから、「謎の顔のかゆみ」と「まぶたの乾燥およびかゆみ」に悩まされていました。8/3に皮膚科を受診し、…"
     },
     {
+      "source": "youtube",
+      "sourceLabel": "YouTube",
+      "title": "ZINEの章タイトルは、盛り上げすぎない【#6】",
+      "url": "https://www.youtube.com/watch?v=WtmhmN6Eptg",
+      "publishedAt": "2026-08-17T01:18:09.000Z",
+      "summary": "次に作るZINEの最初の工程である「企画書」と、作る手順についてお話ししました。 ▼前回作ったZINEのお品書き #ZINEフェス東京 （7/11@東京都立産業貿易センター 台東館4階A-2）お品書き - ログとレンズ https://colorweaver.hatenablog.com/entry/2026/07/0…"
+    },
+    {
       "source": "diary",
       "sourceLabel": "日記",
       "title": "ねずみの棲む家",
@@ -266,12 +290,52 @@
       "summary": ""
     },
     {
+      "source": "youtube",
+      "sourceLabel": "YouTube",
+      "title": "大屋根リングを見に、東京から大阪へ16回通った【#5】",
+      "url": "https://www.youtube.com/watch?v=_JSSmowronM",
+      "publishedAt": "2026-08-10T00:49:26.000Z",
+      "summary": "東京から大阪・関西万博へ16回通った、ということについて話しました。 ▼出演して万博について語ったOssan.fmの回 365. 大阪・関西万博2025 - 前編 (ゲスト:toyaさん) | Ossan.fm https://ossan.fm/episode/365 366. 大阪・関西万博2025 - 後編 (ゲス…"
+    },
+    {
       "source": "diary",
       "sourceLabel": "日記",
       "title": "HTMLを書く日「HTML Day」 #htmlday",
       "url": "https://diary.toya.blog/entry/2026/08/08/165851",
       "publishedAt": "2026-08-08T07:58:51.000Z",
       "summary": "こっちのブログの方ではブローガスト絶賛参加中で、「HTML Day」である8/8のブログ記事はもう出してしまったので（予約投稿で0:30に公開するようにしています）、ここで（リモートですが）HTMLを書きます！HTML Dayについて詳しくは以下をご覧ください。 HTML Day 2026 Kyoto HTML DAY…"
+    },
+    {
+      "source": "youtube",
+      "sourceLabel": "YouTube",
+      "title": "別府に行った理由【#3】",
+      "url": "https://www.youtube.com/watch?v=pkDvSAWAvqs",
+      "publishedAt": "2026-08-02T21:20:58.000Z",
+      "summary": "いま作ろうとしているZINEの題材である、6月末の別府旅行。なぜ別府だったのか、という話をしました。 ↓ブログ版の旅行記はこちら↓ 6月末に別府旅行に行きました - Really Saying Something https://toya.hatenablog.com/entry/2026/07/27/134003 -…"
+    },
+    {
+      "source": "youtube",
+      "sourceLabel": "YouTube",
+      "title": "一番高い本が一番売れた話【#2】",
+      "url": "https://www.youtube.com/watch?v=UsCybXF2Wpg",
+      "publishedAt": "2026-08-02T21:20:58.000Z",
+      "summary": "7月11日に「ZINEフェス東京」というイベントに出展して、3種類のZINEを頒布した話をしました。 #ZINE #同人誌 #文学フリマ #エッセイ ----- ご意見やご感想をいただけると、大変励みになります！ 【toya（とや）】 ・X：https://x.com/toya/ ・Bluesky：https://to…"
+    },
+    {
+      "source": "youtube",
+      "sourceLabel": "YouTube",
+      "title": "写真を見せずに、写真の話をする【#4】",
+      "url": "https://www.youtube.com/watch?v=9FzELJWV9zs",
+      "publishedAt": "2026-08-02T21:20:57.000Z",
+      "summary": "別府旅行で撮った写真についてお話ししました。 写真の答え合わせはこちら ▼今回紹介した写真が載っている記事 https://diary.toya.blog/entry/2026/08/03/053511 ----- ご意見やご感想をいただけると、大変励みになります！ 【toya（とや）】 ・X：https://x.co…"
+    },
+    {
+      "source": "youtube",
+      "sourceLabel": "YouTube",
+      "title": "なぜ51歳で音声配信を始めるのか【#1】",
+      "url": "https://www.youtube.com/watch?v=2ImXFzEU1To",
+      "publishedAt": "2026-08-02T21:20:57.000Z",
+      "summary": "toyaという50代女性会社員が、何かをつくっている様子の「途中経過」を音声で配信しようと思ったことについて話しました。 ブログ：https://toya.hatenablog.com/ #はじめまして #50代 #ZINE #エッセイ --- stand.fmでは、この放送にいいね・コメント・レター送信ができます。 …"
     },
     {
       "source": "diary",
@@ -450,6 +514,14 @@
       "summary": "なかなか進まない原稿をごにょごにょやっていたら進捗が出たのでほっとした。「日本人的無宗教」ではあるが、文章の神様というのは確かにいるもんだなと思っている。できれば毎日降臨してほしい。毎日毎日高市政権のやることなすことにぷりぷり怒っている。Xには繰り返し書いているが、私は高市早苗という政治家が昔から本当に嫌いなので、一刻…"
     },
     {
+      "source": "youtube",
+      "sourceLabel": "YouTube",
+      "title": "文学フリマ東京",
+      "url": "https://www.youtube.com/watch?v=sIlXnrpnLMg",
+      "publishedAt": "2026-05-04T05:55:03.000Z",
+      "summary": ""
+    },
+    {
       "source": "hateblo",
       "sourceLabel": "写真ブログ",
       "title": "SONY VLOGCAM ZV-E10＋SIGMA 30mm F1.4 DC DN＋Kenko ブラックミスト プロテクター",
@@ -463,6 +535,14 @@
       "title": "Z 5II + NIKKOR Z 40mm f/2",
       "url": "https://toya.hateblo.jp/entry/2026/04/29/202820",
       "publishedAt": "2026-04-29T11:28:20.000Z",
+      "summary": ""
+    },
+    {
+      "source": "youtube",
+      "sourceLabel": "YouTube",
+      "title": "西新井大師、曇天",
+      "url": "https://www.youtube.com/watch?v=LkU3OSqdADk",
+      "publishedAt": "2026-04-29T03:55:00.000Z",
       "summary": ""
     },
     {
