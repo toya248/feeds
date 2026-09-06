@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-09-06T07:35:28.693Z",
+  "generatedAt": "2026-09-06T12:34:56.098Z",
   "entries": [
+    {
+      "source": "mastodon",
+      "sourceLabel": "Mastodon",
+      "title": "「第73回日本伝統工芸展」と「柳宗悦が出会った沖縄の美 琉球の民藝」に行った - Really Saying Somet…",
+      "url": "https://mstdn.toya.blog/@toya/117223309976179662",
+      "publishedAt": "2026-09-06T09:09:20.000Z",
+      "summary": "「第73回日本伝統工芸展」と「柳宗悦が出会った沖縄の美 琉球の民藝」に行った - Really Saying Something https://toya.hatenablog.com/entry/2026/09/06/180840"
+    },
+    {
+      "source": "bluesky",
+      "sourceLabel": "Bluesky",
+      "title": "「第73回日本伝統工芸展」と「柳宗悦が出会った沖縄の美 琉球の民藝」に行った - Really Saying Somet…",
+      "url": "https://bsky.app/profile/toya.bsky.social/post/3mutnhea2g227",
+      "publishedAt": "2026-09-06T09:09:08.208Z",
+      "summary": "「第73回日本伝統工芸展」と「柳宗悦が出会った沖縄の美 琉球の民藝」に行った - Really Saying Something toya.hatenablog.com/entry/2026/0..."
+    },
+    {
+      "source": "hatena",
+      "sourceLabel": "ブログ (はてな)",
+      "title": "「第73回日本伝統工芸展」と「柳宗悦が出会った沖縄の美 琉球の民藝」に行った",
+      "url": "https://toya.hatenablog.com/entry/2026/09/06/180840",
+      "publishedAt": "2026-09-06T09:08:40.000Z",
+      "summary": "9/6（日）に、「第73回日本伝統工芸展」（日本橋三越本店）と「柳宗悦が出会った沖縄の美 琉球の民藝」（日本橋高島屋S.C.）を見に行ってきました。日本橋高島屋では同時期開催だった「民芸展」も覗きました。 第73回日本伝統工芸展 www.nihonkogeikai.or.jpwww.mistore.jp 陶芸コーナーの…"
+    },
     {
       "source": "mastodon",
       "sourceLabel": "Mastodon",
@@ -178,14 +202,6 @@
       "summary": "8/28（金）に、「やきもの名品紀行―中国・日本・朝鮮半島―」（根津美術館、南青山）としぶや黒田陶苑（渋谷）の「夏の陶藝奉仕市」へ行ってきました。 根津美術館「やきもの名品紀行―中国・日本・朝鮮半島―」 www.nezu-muse.or.jp根津美術館が所蔵する2,300件ものやきものの中から名品を選りすぐって、中国、…"
     },
     {
-      "source": "mastodon",
-      "sourceLabel": "Mastodon",
-      "title": "ブローガスト28日目の記事ですイイホシユミコさんのお皿「unjour apres midi plate 220」「dis…",
-      "url": "https://mstdn.toya.blog/@toya/117169901393146703",
-      "publishedAt": "2026-08-27T22:46:49.000Z",
-      "summary": "ブローガスト28日目の記事ですイイホシユミコさんのお皿「unjour apres midi plate 220」「dishes plate 140」を買った - Really Saying Somethinghttps://toya.hatenablog.com/entry/2026/08/28/003000"
-    },
-    {
       "source": "hatena",
       "sourceLabel": "ブログ (はてな)",
       "title": "イイホシユミコさんのお皿を2枚買った",
@@ -240,14 +256,6 @@
       "url": "https://toya.hatenablog.com/entry/2026/08/24/003000",
       "publishedAt": "2026-08-23T15:30:00.000Z",
       "summary": "8/23（日）に、「眼のごちそう 食器」（サントリー美術館、六本木）と「ルーシー・リー展―東西をつなぐ優美のうつわ―」（東京都庭園美術館、JR目黒駅近く）を見に行ってきました。www.suntory.co.jpwww.teien-art-museum.ne.jp そもそも器に興味がなかったのに、突如器の展覧会を見に行っ…"
-    },
-    {
-      "source": "hatena",
-      "sourceLabel": "ブログ (はてな)",
-      "title": "Canvaから移行して、Affinityの「レイアウト」（旧Affinity Publisher）でZINEを作ってみた",
-      "url": "https://toya.hatenablog.com/entry/2026/08/23/003000",
-      "publishedAt": "2026-08-22T15:30:00.000Z",
-      "summary": "8/17の記事で書いた通り、私は3冊のZINEを「Canva」で作っていたのですが、4冊目は「Affinity」の「レイアウト」機能を使って作ってみました。Affinityというのは、Adobeに置き換えると、IllustratorとPhotoshopとInDesignをがっちゃんこしたような統合ソフトです。ダウンロー…"
     },
     {
       "source": "diary",
