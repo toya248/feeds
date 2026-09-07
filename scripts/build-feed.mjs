@@ -12,6 +12,12 @@ const SUMMARY_LENGTH = 160;
 
 const SOURCES = [
   {
+    id: 'nikki',
+    label: 'nikki',
+    kind: 'atom',
+    url: 'https://toya248.github.io/nikki/feed.xml',
+  },
+  {
     id: 'bluesky',
     label: 'Bluesky',
     kind: 'bluesky',
@@ -141,17 +147,21 @@ async function loadAtom(source) {
   const entries = toArray(parsed?.feed?.entry);
   return entries.slice(0, MAX_PER_SOURCE).map((entry) => {
     const description = stripHtml(
-      String(entry['media:group']?.['media:description'] ?? entry.summary ?? '')
+      String(atomText(entry['media:group']?.['media:description'] ?? entry.summary ?? ''))
     );
     return {
       source: source.id,
       sourceLabel: source.label,
-      title: stripHtml(String(entry.title ?? '')) || '(タイトルなし)',
+      title: stripHtml(String(atomText(entry.title ?? ''))) || '(タイトルなし)',
       url: pickAlternateLink(entry.link),
       publishedAt: entry.published ? new Date(entry.published).toISOString() : null,
       summary: truncate(description),
     };
   });
+}
+
+function atomText(value) {
+  return typeof value === 'object' && value !== null ? value['#text'] ?? '' : value;
 }
 
 async function loadBluesky(source) {
