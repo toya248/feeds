@@ -12,6 +12,12 @@ const SUMMARY_LENGTH = 160;
 
 const SOURCES = [
   {
+    id: 'ayako_work',
+    label: '手順のとなり',
+    kind: 'rss',
+    url: 'https://blog.ayako-m.work/rss',
+  },
+  {
     id: 'nikki',
     label: 'nikki',
     kind: 'atom',
