@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-09-07T06:00:07.948Z",
+  "generatedAt": "2026-09-07T07:53:42.721Z",
   "entries": [
+    {
+      "source": "mastodon",
+      "sourceLabel": "Mastodon",
+      "title": "『羽田圭介、家を買う。』読了。こんなに資産やお金や不動産のことを考えている人じゃなければ、気に入った家には住めないんだな…",
+      "url": "https://mstdn.toya.blog/@toya/117228295999699562",
+      "publishedAt": "2026-09-07T06:17:20.000Z",
+      "summary": "『羽田圭介、家を買う。』読了。こんなに資産やお金や不動産のことを考えている人じゃなければ、気に入った家には住めないんだなー……という、自分との思考の違いがとても面白かった。若い頃からお金に関して考えたり手を動かしたり得したり損したりしないと、資産は作れないんだろうなぁ。"
+    },
     {
       "source": "youtube",
       "sourceLabel": "YouTube",
@@ -264,14 +272,6 @@
       "url": "https://blog.ayako-m.work/entry/2026/08/29/113956",
       "publishedAt": "2026-08-29T02:39:56.000Z",
       "summary": "以前のブログ名が現状にそぐわなくなったこと、作っているZINEのことを記事にしたくなったことを踏まえ、各種LLMと壁打ちしながら新しいブログ名を付け直して、Claude Designを使ってデザインを整えてみました！ Claude Designではてなブログのリデザインをするのはもう3回目くらいなのですが、デザイン案を…"
-    },
-    {
-      "source": "mastodon",
-      "sourceLabel": "Mastodon",
-      "title": "ブローガスト29日目の記事です。あと2日！根津美術館「やきもの名品紀行―中国・日本・朝鮮半島―」としぶや黒田陶苑「夏の陶…",
-      "url": "https://mstdn.toya.blog/@toya/117175372610510907",
-      "publishedAt": "2026-08-28T21:58:13.000Z",
-      "summary": "ブローガスト29日目の記事です。あと2日！根津美術館「やきもの名品紀行―中国・日本・朝鮮半島―」としぶや黒田陶苑「夏の陶藝奉仕市」に行った - Really Saying Somethinghttps://toya.hatenablog.com/entry/2026/08/29/003000"
     },
     {
       "source": "hatena",
