@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-09-11T13:12:30.420Z",
+  "generatedAt": "2026-09-11T18:08:49.037Z",
   "entries": [
+    {
+      "source": "ayako_work",
+      "sourceLabel": "手順のとなり",
+      "title": "iPhone 13 miniの買い替え先をどうするか迷っている",
+      "url": "https://blog.ayako-m.work/entry/2026/09/11/222051",
+      "publishedAt": "2026-09-11T13:20:51.000Z",
+      "summary": "私のメインのスマートフォンは、iPhone 13 miniです。もうだいぶ前の機種です。バッテリーの性能がやや落ちてきました。1日持って歩くには、モバイルバッテリーが必須になってきています。 iPhone 18シリーズが発表されたので買い取り価格を見に行ったら、もうだいぶ下の方に表示されていて、買い取り価格は30,00…"
+    },
     {
       "source": "bluesky",
       "sourceLabel": "Bluesky",
@@ -240,14 +248,6 @@
       "url": "https://blog.ayako-m.work/entry/2026/09/02/170000",
       "publishedAt": "2026-09-02T08:00:00.000Z",
       "summary": "こちらの記事をきっかけに、書籍『手取り25万円、妻子持ちでも7000万円貯めた私の 氷河期世代のお金の戦略』（GAKKEN、ななしさん著）をKindle版で買って読みました。同世代として、自分の現在地を確認することができたように感じます。 www.kuzyofire.com 手取り25万円、妻子持ちでも7000万円貯め…"
-    },
-    {
-      "source": "ayako_work",
-      "sourceLabel": "手順のとなり",
-      "title": "AIが返してきた、自分の像",
-      "url": "https://blog.ayako-m.work/entry/2026/09/01/221559",
-      "publishedAt": "2026-09-01T13:15:59.000Z",
-      "summary": "AI（LLM）を使ってブログの記事やZINEの構成をしている時に、面白いことが起きました。 ChatGPTと会話していたら、ChatGPTが「あなたは以前『ZINEを100冊書きたい』『観察者として生きたい』と話していた」と回答してきました。しかし、過去の会話でそういう話はあったものの、自分が発言した記憶はありませんで…"
     },
     {
       "source": "hatena",
