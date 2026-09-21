@@ -60,6 +60,12 @@ const SOURCES = [
     url: 'https://cooking-for-golden-age.hatenablog.com/rss',
   },
   {
+    id: 'bake',
+    label: 'とやパン',
+    kind: 'rss',
+    url: 'https://bake.toya.blog/rss',
+  },
+  {
     id: 'colorweaver',
     label: 'ログとレンズ',
     kind: 'rss',
