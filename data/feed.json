@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-09-25T03:18:17.331Z",
+  "generatedAt": "2026-09-25T11:04:16.206Z",
   "entries": [
+    {
+      "source": "mastodon",
+      "sourceLabel": "Mastodon",
+      "title": "昨日今日と、ホルモン補充療法が効いた状態なのか、とても穏やかに仕事を進められたので、更年期障害で私よりずっと重い人は本当…",
+      "url": "https://mstdn.toya.blog/@toya/117330924346653326",
+      "publishedAt": "2026-09-25T09:17:05.000Z",
+      "summary": "昨日今日と、ホルモン補充療法が効いた状態なのか、とても穏やかに仕事を進められたので、更年期障害で私よりずっと重い人は本当に大変なのだろうと思いを馳せた。これはうっかりすると死に至る病ですよやばいよ"
+    },
+    {
+      "source": "hatena",
+      "sourceLabel": "ブログ (はてな)",
+      "title": "「ティースプーン1杯」の女性ホルモンに振り回されて生きている",
+      "url": "https://toya.hatenablog.com/entry/2026/09/25/160000",
+      "publishedAt": "2026-09-25T07:00:00.000Z",
+      "summary": "2023年6月に子宮の摘出手術を受けるまで、エストロゲンという女性ホルモンが多く分泌されている状態で、それに振り回されるようにして生きてきました。子宮内膜症性卵巣のう腫があるとわかってから、10年以上基礎体温をつけ、排卵が起きていなければ中容量ピルを飲んで出血を起こし、とにかくストレスに左右されるのだから身体を大事に、…"
+    },
+    {
+      "source": "ayako_work",
+      "sourceLabel": "手順のとなり",
+      "title": "Android端末同士でPASMOを移したら（Pixel 8 Pro→Galaxy Z Fold8 Ultra）改札を通れなくなったのでその対策を調べた",
+      "url": "https://blog.ayako-m.work/entry/2026/09/25/141250",
+      "publishedAt": "2026-09-25T05:12:50.000Z",
+      "summary": "Pixel 8 ProからGalaxy Z Fold8 UltraにPASMOアプリと機能を移したのですが、なぜかPASMOアプリをいちいち立ち上げないと、改札を通過できなくなってしまいました。せっかくの折りたたみ端末なのにいちいち開いてアプリを立ち上げるのは地味に大変……というより、普通に「ピッ」と通らせてほしい。 …"
+    },
     {
       "source": "ayako_work",
       "sourceLabel": "手順のとなり",
@@ -90,6 +114,14 @@
       "summary": "ホルモン補充療法（HRT）でオーガニックやる気が出たという話を書きました。 blog.ayako-m.work 仕事での進捗が出づらいということはつまり、プライベートにおいてもかなりセルフネグレクト状態が続いていまして、家の中が荒れ果てていたのですが、今日は珍しく「やるか」という気持ちが湧いてきて、溜まっていた段ボール…"
     },
     {
+      "source": "youtube",
+      "sourceLabel": "YouTube",
+      "title": "更年期障害だと思って病院に行ったら、違った話【#11】",
+      "url": "https://www.youtube.com/watch?v=EsoJuDD35HM",
+      "publishedAt": "2026-09-21T02:41:28.000Z",
+      "summary": "8月から9月にかけて体調不良が続いたので、あちこち病院を回り、結局どうなったか、という話をしました。 ▼関連記事 ・ホルモン補充療法（HRT）を始めました（エフメノカプセル100mg＋ディビゲル1mg） - 手順のとなり https://blog.ayako-m.work/entry/2026/09/14/190000…"
+    },
+    {
       "source": "ayako_work",
       "sourceLabel": "手順のとなり",
       "title": "イヤーバランスセラピー（耳ツボ×リンパトリートメント）に行ってきた",
@@ -170,14 +202,6 @@
       "summary": "私はビールを飲むとすぐに酔っぱらうので、普段アルコールを飲むときはビール以外のものを選ぶことにしています。 今日は自社が関連するイベントのお手伝いをしていて、一通りの作業*1を終えたところで、喉が乾いたなと思い、イベントで用意されていた飲み物の中から、ノンアルコールビール「オールフリー」のエールテイストというのを飲んで…"
     },
     {
-      "source": "ayako_work",
-      "sourceLabel": "手順のとなり",
-      "title": "みょうがのTシャツが届いたよ",
-      "url": "https://blog.ayako-m.work/entry/2026/09/15/212330",
-      "publishedAt": "2026-09-15T12:23:30.000Z",
-      "summary": "みょうがのTシャツを買ったことを数日前の以下の記事に書いたのですが、そのみょうがTが本日届きました！ blog.ayako-m.work 「インディゴにしました」と書いたのですが、その後発送元から連絡をいただき、インディゴが売り切れてしまったとのこと。では代わりに、ということでホワイトを選びました。 バズった元の投稿も…"
-    },
-    {
       "source": "bluesky",
       "sourceLabel": "Bluesky",
       "title": "note疲れ（？）した方たちがSubstackに流入してきている様子を見ている",
@@ -192,6 +216,14 @@
       "url": "https://mstdn.toya.blog/@toya/117267434597640380",
       "publishedAt": "2026-09-14T04:10:48.000Z",
       "summary": "8月にあまりにも調子をくずしてた件、やっと本丸婦人科に今日行ってみることにしました"
+    },
+    {
+      "source": "youtube",
+      "sourceLabel": "YouTube",
+      "title": "音声配信を10回続けてみて【#10】",
+      "url": "https://www.youtube.com/watch?v=sULqwl2ihKI",
+      "publishedAt": "2026-09-14T01:23:25.000Z",
+      "summary": "今回でとやラジオは第10回を迎えました。そのふりかえりの回です。あんなことをやりたい、こんなことをやりたいなんていう話をしました。 ----- ご意見やご感想をいただけると、大変励みになります！ 【toya（とや）】 ・X： https://x.com/toya/ ・Bluesky： https://toya.bsky…"
     },
     {
       "source": "diary",
@@ -250,6 +282,14 @@
       "summary": "9月上旬に気になったパーマリンクをご紹介します\n\nsubstack.com/home/post/p-..."
     },
     {
+      "source": "youtube",
+      "sourceLabel": "YouTube",
+      "title": "DJI Osmo Pocket 4が届いたので試し撮り！iPhoneでフィルタをかけています（殺風景なので）",
+      "url": "https://www.youtube.com/shorts/5c0XqUjxqZo",
+      "publishedAt": "2026-09-08T07:46:41.000Z",
+      "summary": ""
+    },
+    {
       "source": "mastodon",
       "sourceLabel": "Mastodon",
       "title": "ほんとだ高市首相、ヒアルロン酸か何か入れてるな……（Xで見てマ？と思ってたけど映像見て納得した）",
@@ -274,20 +314,20 @@
       "summary": "noteで読んでてよかったなと思うのはソーセージ姉さんのやつだけだな……"
     },
     {
-      "source": "mastodon",
-      "sourceLabel": "Mastodon",
-      "title": "好きな書き手でもnoteだときれいにスルーするのでnoteスルー力が日々高まっている",
-      "url": "https://mstdn.toya.blog/@toya/117232717156002310",
-      "publishedAt": "2026-09-08T01:01:42.000Z",
-      "summary": "好きな書き手でもnoteだときれいにスルーするのでnoteスルー力が日々高まっている"
-    },
-    {
       "source": "hateblo",
       "sourceLabel": "写真ブログ",
       "title": "SONY VLOGCAM ZV-E10＋SIGMA 30mm F1.4 DC DN＋Kenko ブラックミスト プロテクター",
       "url": "https://toya.hateblo.jp/entry/2026/09/07/184758",
       "publishedAt": "2026-09-07T09:47:58.000Z",
       "summary": ""
+    },
+    {
+      "source": "youtube",
+      "sourceLabel": "YouTube",
+      "title": "ZINEが届きました。道具を変えた話【#9】",
+      "url": "https://www.youtube.com/watch?v=0INeTP-lKoM",
+      "publishedAt": "2026-09-07T01:21:02.000Z",
+      "summary": "4冊目のZINEが無事刷り上がったので、ZINEを作る時の道具（ソフト）を変えてみたという話をしました。 ▼関連記事 ・Affinityの「レイアウト」（旧Affinity Publisher）でZINEを作ってみた - Really Saying Something https://toya.hatenablog.c…"
     },
     {
       "source": "hatena",
@@ -304,6 +344,14 @@
       "url": "https://toya.hatenablog.com/entry/2026/09/01/193227",
       "publishedAt": "2026-09-01T10:32:27.000Z",
       "summary": "ブローガスト*1の期間「毎日（31日連続）更新」を成し遂げてはみたものの、ブログを書く習慣が身についたか？というと、全くそういうことにはならなかった。「0:30に記事を公開予約設定しなくてもよくなったなぁ」と一瞬思っただけで、習慣としてはあっさり失われてしまった。書けそうなネタを見つけたらClaudeに覚えておいてもら…"
+    },
+    {
+      "source": "youtube",
+      "sourceLabel": "YouTube",
+      "title": "6年前に自分が編集した記事の、お皿を買った【#8】",
+      "url": "https://www.youtube.com/watch?v=oddo0369a30",
+      "publishedAt": "2026-08-31T01:21:11.000Z",
+      "summary": "突然器（うつわ）に興味を持って、美術館を巡り、イイホシユミコさんのお皿を買ったという話をしました。 ▼関連記事 ・「眼のごちそう 食器」（サントリー美術館）と「ルーシー・リー展―東西をつなぐ優美のうつわ―」（東京都庭園美術館）を見た - Really Saying Something https://toya.hate…"
     },
     {
       "source": "hatena",
@@ -354,12 +402,12 @@
       "summary": "ばらけさせて買ってるつもりなんだけど……なぜか今日集中して届いて……しかもリアル書店で1冊本を買ってしまった。ばかかな？買った本メモです。 増補改訂版 Affinityの教科書 ［増補改訂版］Affinityの教科書（V3対応）作者:堀江ヒデアキビー・エヌ・エヌ新社AmazonAffinityを入れたので、もう少しでき…"
     },
     {
-      "source": "hatena",
-      "sourceLabel": "ブログ (はてな)",
-      "title": "行きつけと呼ぶほどではないけど好きな店、3つ",
-      "url": "https://toya.hatenablog.com/entry/2026/08/26/003000",
-      "publishedAt": "2026-08-25T15:30:00.000Z",
-      "summary": "私には「行きつけ」のお店が存在しません。例えば店員さんに顔を覚えられている、行けば”いつもの”メニューが出てくる、決まった曜日・決まった時間に行く――これくらいスタイルが定まっていれば「行きつけ」と言いやすいと思いますが、この記事で紹介するお店はそのどれでもありません。ただそこにあるのは「明確に好きと言える」お店である…"
+      "source": "youtube",
+      "sourceLabel": "YouTube",
+      "title": "一人語りが読み上げっぽくなる原因がわかった【#7】",
+      "url": "https://www.youtube.com/watch?v=HapRnVJzBoo",
+      "publishedAt": "2026-08-24T06:23:24.000Z",
+      "summary": "雑談系ポッドキャスト「キマグレエフエム」にゲスト出演してみて考えたことをお話ししました。 ▼キマグレエフエム 出演回 【336】実家への仕送りをやめた (ゲスト: toyaさん) | キマグレエフエム https://kimagurefm.pages.dev/ep/336/ 【337】書かずにはいられない (ゲスト: …"
     },
     {
       "source": "diary",
@@ -378,6 +426,14 @@
       "summary": "1日目は有休の代わりに使ってしまいました。なので8/18が2日目です。 いきさつ 顔がかゆいとは 8/17（月）夜にギブアップした 8/18（火） なんだったのだろう これも書いておきたい いきさつ ざっくり8/1くらいから、「謎の顔のかゆみ」と「まぶたの乾燥およびかゆみ」に悩まされていました。8/3に皮膚科を受診し、…"
     },
     {
+      "source": "youtube",
+      "sourceLabel": "YouTube",
+      "title": "ZINEの章タイトルは、盛り上げすぎない【#6】",
+      "url": "https://www.youtube.com/watch?v=WtmhmN6Eptg",
+      "publishedAt": "2026-08-17T01:18:09.000Z",
+      "summary": "次に作るZINEの最初の工程である「企画書」と、作る手順についてお話ししました。 ▼前回作ったZINEのお品書き #ZINEフェス東京 （7/11@東京都立産業貿易センター 台東館4階A-2）お品書き - ログとレンズ https://colorweaver.hatenablog.com/entry/2026/07/0…"
+    },
+    {
       "source": "diary",
       "sourceLabel": "日記",
       "title": "ねずみの棲む家",
@@ -394,12 +450,36 @@
       "summary": ""
     },
     {
+      "source": "youtube",
+      "sourceLabel": "YouTube",
+      "title": "大屋根リングを見に、東京から大阪へ16回通った【#5】",
+      "url": "https://www.youtube.com/watch?v=_JSSmowronM",
+      "publishedAt": "2026-08-10T00:49:26.000Z",
+      "summary": "東京から大阪・関西万博へ16回通った、ということについて話しました。 ▼出演して万博について語ったOssan.fmの回 365. 大阪・関西万博2025 - 前編 (ゲスト:toyaさん) | Ossan.fm https://ossan.fm/episode/365 366. 大阪・関西万博2025 - 後編 (ゲス…"
+    },
+    {
       "source": "diary",
       "sourceLabel": "日記",
       "title": "HTMLを書く日「HTML Day」 #htmlday",
       "url": "https://diary.toya.blog/entry/2026/08/08/165851",
       "publishedAt": "2026-08-08T07:58:51.000Z",
       "summary": "こっちのブログの方ではブローガスト絶賛参加中で、「HTML Day」である8/8のブログ記事はもう出してしまったので（予約投稿で0:30に公開するようにしています）、ここで（リモートですが）HTMLを書きます！HTML Dayについて詳しくは以下をご覧ください。 HTML Day 2026 Kyoto HTML DAY…"
+    },
+    {
+      "source": "youtube",
+      "sourceLabel": "YouTube",
+      "title": "別府に行った理由【#3】",
+      "url": "https://www.youtube.com/watch?v=pkDvSAWAvqs",
+      "publishedAt": "2026-08-02T21:20:58.000Z",
+      "summary": "いま作ろうとしているZINEの題材である、6月末の別府旅行。なぜ別府だったのか、という話をしました。 ↓ブログ版の旅行記はこちら↓ 6月末に別府旅行に行きました - Really Saying Something https://toya.hatenablog.com/entry/2026/07/27/134003 -…"
+    },
+    {
+      "source": "youtube",
+      "sourceLabel": "YouTube",
+      "title": "写真を見せずに、写真の話をする【#4】",
+      "url": "https://www.youtube.com/watch?v=9FzELJWV9zs",
+      "publishedAt": "2026-08-02T21:20:57.000Z",
+      "summary": "別府旅行で撮った写真についてお話ししました。 写真の答え合わせはこちら ▼今回紹介した写真が載っている記事 https://diary.toya.blog/entry/2026/08/03/053511 ----- ご意見やご感想をいただけると、大変励みになります！ 【toya（とや）】 ・X：https://x.co…"
     },
     {
       "source": "diary",
