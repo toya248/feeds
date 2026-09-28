@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-09-28T12:49:55.491Z",
+  "generatedAt": "2026-09-28T21:03:02.036Z",
   "entries": [
+    {
+      "source": "mastodon",
+      "sourceLabel": "Mastodon",
+      "title": "ストレスの一部にはたと気づけたので今日は有意義であった",
+      "url": "https://mstdn.toya.blog/@toya/117349162924165049",
+      "publishedAt": "2026-09-28T14:35:23.000Z",
+      "summary": "ストレスの一部にはたと気づけたので今日は有意義であった"
+    },
+    {
+      "source": "ayako_work",
+      "sourceLabel": "手順のとなり",
+      "title": "ホルモン補充療法（HRT）を始めて2週間。続けてやってみましょうということになりました",
+      "url": "https://blog.ayako-m.work/entry/2026/09/28/230841",
+      "publishedAt": "2026-09-28T14:08:41.000Z",
+      "summary": "blog.ayako-m.work 婦人科を受診してホルモン補充療法を試して2週間後の診察でした。血液検査の結果、HRTのリスクである血栓と貧血で見る値がクリアできていたとのことで、このまま継続して、リスクが高くなってしまう乳がんの検診と血液検査をやって、様子を見ていきましょう、ということになりました。 記事に書いた通…"
+    },
     {
       "source": "youtube",
       "sourceLabel": "YouTube",
@@ -202,14 +218,6 @@
       "summary": "コロナ禍以降初めて、中山競馬場に行ってきました。先日マリンスタジアムで引き当てた招待券で入りました。千葉ロッテマリーンズの方々、その節はありがとうございました。 お昼は寿司と和食をメインとしたお店「寿美家」でアジフライ定食。船橋法典で魚が捕れるわけではないのですが、なぜか千葉県のアジフライはおいしいですね。 レースの様…"
     },
     {
-      "source": "ayako_work",
-      "sourceLabel": "手順のとなり",
-      "title": "Netflixでドラマ『しあわせは食べて寝て待て』を見ている",
-      "url": "https://blog.ayako-m.work/entry/2026/09/18/204501",
-      "publishedAt": "2026-09-18T11:45:01.000Z",
-      "summary": "NHKで2025年4月〜5月に放送されたドラマ『しあわせは食べて寝て待て』を、Netflixで見ています。原作は水凪トリさんの漫画『しあわせは食べて寝て待て』です。 しあわせは食べて寝て待て 1 (A.L.C. DX)作者:水凪トリ秋田書店Amazon ja.wikipedia.org 膠原病を患ったことでキャリアウー…"
-    },
-    {
       "source": "hatena",
       "sourceLabel": "ブログ (はてな)",
       "title": "今週のはてなブックマーク週報（2026年9月12日〜18日分）",
@@ -312,14 +320,6 @@
       "url": "https://www.youtube.com/shorts/5c0XqUjxqZo",
       "publishedAt": "2026-09-08T07:46:41.000Z",
       "summary": ""
-    },
-    {
-      "source": "mastodon",
-      "sourceLabel": "Mastodon",
-      "title": "ほんとだ高市首相、ヒアルロン酸か何か入れてるな……（Xで見てマ？と思ってたけど映像見て納得した）",
-      "url": "https://mstdn.toya.blog/@toya/117234199212315402",
-      "publishedAt": "2026-09-08T07:18:36.000Z",
-      "summary": "ほんとだ高市首相、ヒアルロン酸か何か入れてるな……（Xで見てマ？と思ってたけど映像見て納得した）"
     },
     {
       "source": "hateblo",
