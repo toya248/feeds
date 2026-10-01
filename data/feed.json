@@ -1,6 +1,22 @@
 {
-  "generatedAt": "2026-10-01T12:22:54.417Z",
+  "generatedAt": "2026-10-01T20:04:59.990Z",
   "entries": [
+    {
+      "source": "bluesky",
+      "sourceLabel": "Bluesky",
+      "title": "YAPC界隈（？）、相貌失認気味なのに加えて、とっさにどう呼びかけていいかわからない（テキストで名前を認識している）方が…",
+      "url": "https://bsky.app/profile/toya.bsky.social/post/3mwsudrorfk2u",
+      "publishedAt": "2026-10-01T12:30:07.815Z",
+      "summary": "YAPC界隈（？）、相貌失認気味なのに加えて、とっさにどう呼びかけていいかわからない（テキストで名前を認識している）方が多数いるので、ますます怪しい人になりつつある"
+    },
+    {
+      "source": "bluesky",
+      "sourceLabel": "Bluesky",
+      "title": "相貌失認気味なので若干不穏な感じの行動でやっていたがいろいろな方とちょっとずつでも話せてよかった\n\n#yapcjapan",
+      "url": "https://bsky.app/profile/toya.bsky.social/post/3mwsua5guc22u",
+      "publishedAt": "2026-10-01T12:28:05.919Z",
+      "summary": "相貌失認気味なので若干不穏な感じの行動でやっていたがいろいろな方とちょっとずつでも話せてよかった\n\n#yapcjapan"
+    },
     {
       "source": "ayako_work",
       "sourceLabel": "手順のとなり",
@@ -296,14 +312,6 @@
       "url": "https://toya.hatenablog.com/entry/2026/09/12/212716",
       "publishedAt": "2026-09-12T12:27:16.000Z",
       "summary": "toya.hatenablog.com7/5のこのエントリーを書いた後、淡々と歯科治療を続け、虫歯を治しまくってもらい、本日9/12、最後に残った右上の親知らず1本を抜歯しました。これで親知らずが全部抜かれたということになりました。「あとはこの状態をどう継続していくかです」ということで、12月初旬にクリーニングの予約を…"
-    },
-    {
-      "source": "bluesky",
-      "sourceLabel": "Bluesky",
-      "title": "これは内緒なんですけど、ClaudeのMax、1ヶ月だけのつもりでプラン入ってみました",
-      "url": "https://bsky.app/profile/toya.bsky.social/post/3mv7je6efpc2o",
-      "publishedAt": "2026-09-11T02:27:43.290Z",
-      "summary": "これは内緒なんですけど、ClaudeのMax、1ヶ月だけのつもりでプラン入ってみました"
     },
     {
       "source": "mastodon",
