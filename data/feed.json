@@ -1,6 +1,14 @@
 {
-  "generatedAt": "2026-11-05T10:18:14.700Z",
+  "generatedAt": "2026-11-05T19:27:21.030Z",
   "entries": [
+    {
+      "source": "ayako_work",
+      "sourceLabel": "手順のとなり",
+      "title": "ポートフォリオサイトを作って、ドメインの置き場を一つにした",
+      "url": "https://blog.ayako-m.work/entry/2026/11/05/213957",
+      "publishedAt": "2026-11-05T12:39:57.000Z",
+      "summary": "本名のポートフォリオサイトを作った。https://ayako-m.work/ で見られる。 ayako-m.work これまで自分用のページはGitHub Pagesに置いてきたのだけれど、あのURLにはGitHubのアカウント名が入る。本名のサイトをそこに置くと、別名義で書いているものと名前がつながってしまう。持っ…"
+    },
     {
       "source": "mastodon",
       "sourceLabel": "Mastodon",
@@ -312,14 +320,6 @@
       "url": "https://blog.ayako-m.work/entry/2026/09/24/225529",
       "publishedAt": "2026-09-24T13:55:29.000Z",
       "summary": "まさか、3冊一気に同じ日に届くとは思っていなかった。予約した日がばらばらだったから……。 倉貫義人さんの『自分と社会をいい感じにする 仕事技芸論』 自分と社会をいい感じにする 仕事技芸論作者:倉貫義人ミシマ社Amazon 清水唯一朗さんの『〈きく〉ことの教科書 インタビューで未知をひらく』 〈きく〉ことの教科書 インタ…"
-    },
-    {
-      "source": "ayako_work",
-      "sourceLabel": "手順のとなり",
-      "title": "「楽天モバイル買い替え超トクプログラム」を使ってSamsung Galaxy Z Fold8 Ultraを入手した",
-      "url": "https://blog.ayako-m.work/entry/2026/09/23/192913",
-      "publishedAt": "2026-09-23T10:29:13.000Z",
-      "summary": "楽天モバイル回線用端末として、結構長く（3年くらい）Galaxy Z Flip4を使ってきたのですが、買い替えプログラムの対象だ！と気づいて、さくっとSamsung Galaxy Z Fold8 Ultraに買い替えました。ラインアップの中で一番面白そうな端末だった、というのが選んだ理由です。 Samsung Gala…"
     },
     {
       "source": "bake",
