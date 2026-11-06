@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T01:20:36.649Z",
+  "generatedAt": "2026-11-06T10:21:05.229Z",
   "entries": [
     {
       "source": "ayako_work",
@@ -8,22 +8,6 @@
       "url": "https://blog.ayako-m.work/entry/2026/11/05/213957",
       "publishedAt": "2026-11-05T12:39:57.000Z",
       "summary": "本名のポートフォリオサイトを作った。https://ayako-m.work/ で見られる。 ayako-m.work これまで自分用のページはGitHub Pagesに置いてきたのだけれど、あのURLにはGitHubのアカウント名が入る。本名のサイトをそこに置くと、別名義で書いているものと名前がつながってしまう。持っ…"
-    },
-    {
-      "source": "mastodon",
-      "sourceLabel": "Mastodon",
-      "title": "お名前.comでドメイン3つ持ってて、まずひとつCloudflareに移そうと思って、Claudeに教えてもらいながらひ…",
-      "url": "https://mstdn.toya.blog/@toya/117562837111635859",
-      "publishedAt": "2026-11-05T08:15:33.000Z",
-      "summary": "お名前.comでドメイン3つ持ってて、まずひとつCloudflareに移そうと思って、Claudeに教えてもらいながらひとつずつ手順をたどって、ついで？にポートフォリオサイトも簡単なのを作ってもらって設置した。あと2つ……（そのうち2つはとや丼＋ブログ2つ分なのでまた今度やります）https://ayako-m.wor…"
-    },
-    {
-      "source": "mastodon",
-      "sourceLabel": "Mastodon",
-      "title": "お名前ID卒業したくて調べている",
-      "url": "https://mstdn.toya.blog/@toya/117562127660440937",
-      "publishedAt": "2026-11-05T05:15:07.000Z",
-      "summary": "お名前ID卒業したくて調べている"
     },
     {
       "source": "diary",
@@ -42,28 +26,12 @@
       "summary": "精神的に元気を出したい時に見るサイト「前例」を作った - Really Saying Something\ntoya.hatenablog.com/entry/2026/1..."
     },
     {
-      "source": "mastodon",
-      "sourceLabel": "Mastodon",
-      "title": "精神的に元気を出したい時に見るサイト「前例」を作った - Really Saying Somethinghttps://…",
-      "url": "https://mstdn.toya.blog/@toya/117551319086538571",
-      "publishedAt": "2026-11-03T07:26:21.000Z",
-      "summary": "精神的に元気を出したい時に見るサイト「前例」を作った - Really Saying Somethinghttps://toya.hatenablog.com/entry/2026/11/03/162549"
-    },
-    {
       "source": "hatena",
       "sourceLabel": "ブログ (はてな)",
       "title": "精神的に元気を出したい時に見るサイト「前例」を作った",
       "url": "https://toya.hatenablog.com/entry/2026/11/03/162549",
       "publishedAt": "2026-11-03T07:25:49.000Z",
       "summary": "私とのこれまでの会話をもとに、精神的に元気を出したい時に見るサイトを作ってください。簡単に理解を示したら受け入れられるとか、安易なやさしい言葉はやめてください。 昨日「無理な日の手順書」を作ったので、今度はその手前、精神的に落ち着いたり元気を出したりしたい時に見るためのサイトを作ってみました。「前例」です。サイト名もコ…"
-    },
-    {
-      "source": "mastodon",
-      "sourceLabel": "Mastodon",
-      "title": "「無理な日の手順書」をClaudeで作った - Really Saying Somethinghttps://toya.…",
-      "url": "https://mstdn.toya.blog/@toya/117543724469312840",
-      "publishedAt": "2026-11-01T23:14:57.000Z",
-      "summary": "「無理な日の手順書」をClaudeで作った - Really Saying Somethinghttps://toya.hatenablog.com/entry/2026/11/02/081406"
     },
     {
       "source": "bluesky",
@@ -98,14 +66,6 @@
       "summary": ""
     },
     {
-      "source": "mastodon",
-      "sourceLabel": "Mastodon",
-      "title": "Galaxy Z Fold8 Ultraで撮ってみた",
-      "url": "https://mstdn.toya.blog/@toya/117540407264597928",
-      "publishedAt": "2026-11-01T09:11:20.000Z",
-      "summary": "Galaxy Z Fold8 Ultraで撮ってみた"
-    },
-    {
       "source": "hatena",
       "sourceLabel": "ブログ (はてな)",
       "title": "今週のはてなブックマーク週報（2026年10月24日〜10月30日分）",
@@ -122,12 +82,12 @@
       "summary": "以下は、Claudeが、私のはてなブックマークの2026年10月17日〜10月23日分から抽出して分析してくれた内容です。まるっきりAI任せで編集も入れておらず、かつ私の記録のためだけの試みです。 対象期間 2026年10月17日（土）〜10月23日（金）。ブックマークは計26件。10月21日（水）の14件に集中し、そ…"
     },
     {
-      "source": "mastodon",
-      "sourceLabel": "Mastodon",
-      "title": "非エンジニアとエンジニアの間のAI活用 - Really Saying Something https://toya.h…",
-      "url": "https://mstdn.toya.blog/@toya/117500033557536225",
-      "publishedAt": "2026-10-25T06:03:46.000Z",
-      "summary": "非エンジニアとエンジニアの間のAI活用 - Really Saying Something https://toya.hatenablog.com/entry/2026/10/25/150311#はてなブログ"
+      "source": "youtube",
+      "sourceLabel": "YouTube",
+      "title": "作った本は来年1月に京都で出します【#13】",
+      "url": "https://www.youtube.com/watch?v=kJj0ZWAJXV4",
+      "publishedAt": "2026-10-26T01:20:37.000Z",
+      "summary": "3週収録をお休みしてしまったので、近況報告についてお話ししました。 ▼関連記事 ・文学フリマ京都11 – 2027/1/17(日) | 文学フリマ https://bunfree.net/event/kyoto11/ ・ホルモン補充療法（HRT）、ざっくり1ヶ月で元の生活に近くなってきました（私の場合） - 手順のとな…"
     },
     {
       "source": "bluesky",
@@ -178,14 +138,6 @@
       "summary": "blue sky"
     },
     {
-      "source": "mastodon",
-      "sourceLabel": "Mastodon",
-      "title": "昨夜2:40まで寝付けなかったのに今朝まあまあ元気なのはなぜ",
-      "url": "https://mstdn.toya.blog/@toya/117430830000103626",
-      "publishedAt": "2026-10-13T00:44:24.000Z",
-      "summary": "昨夜2:40まで寝付けなかったのに今朝まあまあ元気なのはなぜ"
-    },
-    {
       "source": "ayako_work",
       "sourceLabel": "手順のとなり",
       "title": "日の光があるのはいいことだ",
@@ -200,14 +152,6 @@
       "url": "https://toya.hatenablog.com/entry/2026/10/11/165917",
       "publishedAt": "2026-10-11T07:59:17.000Z",
       "summary": "以下は、Claudeが、私のはてなブックマークの2026年10月3日〜10月9日分から抽出して分析してくれた内容です。まるっきりAI任せで編集も入れておらず、かつ私の記録のためだけの試みです。 前週はChatGPTとClaudeの2つ分載せたのですが、Claudeの方が好みだったので、今回はClaude版です。 対象期…"
-    },
-    {
-      "source": "mastodon",
-      "sourceLabel": "Mastodon",
-      "title": "めちゃくちゃに懸念していたことをとりあえずフォワードした状態になったので一段落したのだが、一段落の結果があんまり本質に刺…",
-      "url": "https://mstdn.toya.blog/@toya/117392355093456294",
-      "publishedAt": "2026-10-06T05:39:43.000Z",
-      "summary": "めちゃくちゃに懸念していたことをとりあえずフォワードした状態になったので一段落したのだが、一段落の結果があんまり本質に刺さってない感じがあるので、大変困惑している（つまり一段落していない）"
     },
     {
       "source": "hatena",
@@ -242,14 +186,6 @@
       "summary": "ホルモン補充療法（HRT）をやっていきましょう、という記事を書いた直後になんですが、顔がかゆいんです。 唐突に何を書いているのかとお思いでしょうが、8月中旬から今まで断続的に顔のかゆさに悩まされておりまして、今日は1日中かゆくて困っていました。皮膚科・眼科にも通算3回行きました。原因は全くわかっておらず、「皮膚掻痒症で…"
     },
     {
-      "source": "mastodon",
-      "sourceLabel": "Mastodon",
-      "title": "ストレスの一部にはたと気づけたので今日は有意義であった",
-      "url": "https://mstdn.toya.blog/@toya/117349162924165049",
-      "publishedAt": "2026-09-28T14:35:23.000Z",
-      "summary": "ストレスの一部にはたと気づけたので今日は有意義であった"
-    },
-    {
       "source": "ayako_work",
       "sourceLabel": "手順のとなり",
       "title": "ホルモン補充療法（HRT）を始めて2週間。続けてやってみましょうということになりました",
@@ -258,20 +194,20 @@
       "summary": "blog.ayako-m.work 婦人科を受診してホルモン補充療法を試して2週間後の診察でした。血液検査の結果、HRTのリスクである血栓と貧血で見る値がクリアできていたとのことで、このまま継続して、リスクが高くなってしまう乳がんの検診と血液検査をやって、様子を見ていきましょう、ということになりました。 記事に書いた通…"
     },
     {
+      "source": "youtube",
+      "sourceLabel": "YouTube",
+      "title": "予定を入れない、という予定【#12】",
+      "url": "https://www.youtube.com/watch?v=hOLvm2j1g60",
+      "publishedAt": "2026-09-28T01:23:15.000Z",
+      "summary": "シルバーウィークに、あえて大きな予定を入れずに過ごしてみたらどうなったか、という話をしました。 ▼関連記事 ・「楽天モバイル買い替え超トクプログラム」を使ってSamsung Galaxy Z Fold8 Ultraを入手した - 手順のとなり https://blog.ayako-m.work/entry/2026/0…"
+    },
+    {
       "source": "ayako_work",
       "sourceLabel": "手順のとなり",
       "title": "「断捨離」とまではいかないが少しだけ物を捨てた（のに、また増えた）",
       "url": "https://blog.ayako-m.work/entry/2026/09/27/222459",
       "publishedAt": "2026-09-27T13:24:59.000Z",
       "summary": "2025年の大阪・関西万博で、たくさん万博・ミャクミャクグッズを買ってしまった結果、家に物があふれまくっているため、少しずつ家の中を片付けています。物が増えたから物を捨てざるを得なくなったという、なんだか皮肉なことになっています。 今日は「クリアファイル収納ホルダー」が届いたので、やたらとたくさんあるクリアファイルを整…"
-    },
-    {
-      "source": "mastodon",
-      "sourceLabel": "Mastodon",
-      "title": "どうしても眠れなくて深夜のコンビニに行ってアイスを買ってたべちゃった",
-      "url": "https://mstdn.toya.blog/@toya/117338480088054532",
-      "publishedAt": "2026-09-26T17:18:36.000Z",
-      "summary": "どうしても眠れなくて深夜のコンビニに行ってアイスを買ってたべちゃった"
     },
     {
       "source": "ayako_work",
@@ -322,12 +258,36 @@
       "summary": "NEWエンゼル型付き! 日本一簡単に家で焼ける1時間パンレシピ (宝島社ブランドムック)作者:Backe晶子(遊佐晶子)宝島社Amazon エンゼル型がついているパンレシピ集の中から、「多少手間をかけてでも食べたい」ハードパン風のレシピを選んで、くるみを練り込んで＋強力粉の一部を全粒粉に置き換えて、くるみパンを作ってみ…"
     },
     {
+      "source": "youtube",
+      "sourceLabel": "YouTube",
+      "title": "更年期障害だと思って病院に行ったら、違った話【#11】",
+      "url": "https://www.youtube.com/watch?v=EsoJuDD35HM",
+      "publishedAt": "2026-09-21T02:41:28.000Z",
+      "summary": "8月から9月にかけて体調不良が続いたので、あちこち病院を回り、結局どうなったか、という話をしました。 ▼関連記事 ・ホルモン補充療法（HRT）を始めました（エフメノカプセル100mg＋ディビゲル1mg） - 手順のとなり https://blog.ayako-m.work/entry/2026/09/14/190000…"
+    },
+    {
+      "source": "youtube",
+      "sourceLabel": "YouTube",
+      "title": "音声配信を10回続けてみて【#10】",
+      "url": "https://www.youtube.com/watch?v=sULqwl2ihKI",
+      "publishedAt": "2026-09-14T01:23:25.000Z",
+      "summary": "今回でとやラジオは第10回を迎えました。そのふりかえりの回です。あんなことをやりたい、こんなことをやりたいなんていう話をしました。 ----- ご意見やご感想をいただけると、大変励みになります！ 【toya（とや）】 ・X： https://x.com/toya/ ・Bluesky： https://toya.bsky…"
+    },
+    {
       "source": "diary",
       "sourceLabel": "日記",
       "title": "『劇場版 魔法少女まどか☆マギカ〈ワルプルギスの廻天〉』を観ました",
       "url": "https://diary.toya.blog/entry/2026/09/13/201804",
       "publishedAt": "2026-09-13T11:18:04.000Z",
       "summary": "www.madoka-magica.com「円環の理を失った世界で、魔法少女たちの運命が、再び廻り始める。」「叛逆の物語」でほむらはまどかの人間の方だけ引き抜いたんじゃなかったっけ？？？？円環の理システムそのものは残ってると思ってたんだが？？？？ 「円環の理」そのものとなったまどかが、ほむらを導こうとソウルジェムに手を…"
+    },
+    {
+      "source": "youtube",
+      "sourceLabel": "YouTube",
+      "title": "DJI Osmo Pocket 4が届いたので試し撮り！iPhoneでフィルタをかけています（殺風景なので）",
+      "url": "https://www.youtube.com/shorts/5c0XqUjxqZo",
+      "publishedAt": "2026-09-08T07:46:41.000Z",
+      "summary": ""
     },
     {
       "source": "hateblo",
@@ -338,12 +298,36 @@
       "summary": ""
     },
     {
+      "source": "youtube",
+      "sourceLabel": "YouTube",
+      "title": "ZINEが届きました。道具を変えた話【#9】",
+      "url": "https://www.youtube.com/watch?v=0INeTP-lKoM",
+      "publishedAt": "2026-09-07T01:21:02.000Z",
+      "summary": "4冊目のZINEが無事刷り上がったので、ZINEを作る時の道具（ソフト）を変えてみたという話をしました。 ▼関連記事 ・Affinityの「レイアウト」（旧Affinity Publisher）でZINEを作ってみた - Really Saying Something https://toya.hatenablog.c…"
+    },
+    {
+      "source": "youtube",
+      "sourceLabel": "YouTube",
+      "title": "6年前に自分が編集した記事の、お皿を買った【#8】",
+      "url": "https://www.youtube.com/watch?v=oddo0369a30",
+      "publishedAt": "2026-08-31T01:21:11.000Z",
+      "summary": "突然器（うつわ）に興味を持って、美術館を巡り、イイホシユミコさんのお皿を買ったという話をしました。 ▼関連記事 ・「眼のごちそう 食器」（サントリー美術館）と「ルーシー・リー展―東西をつなぐ優美のうつわ―」（東京都庭園美術館）を見た - Really Saying Something https://toya.hate…"
+    },
+    {
       "source": "diary",
       "sourceLabel": "日記",
       "title": "8/26（今日）入手した本3冊をメモ",
       "url": "https://diary.toya.blog/entry/2026/08/26/205645",
       "publishedAt": "2026-08-26T11:56:45.000Z",
       "summary": "ばらけさせて買ってるつもりなんだけど……なぜか今日集中して届いて……しかもリアル書店で1冊本を買ってしまった。ばかかな？買った本メモです。 増補改訂版 Affinityの教科書 ［増補改訂版］Affinityの教科書（V3対応）作者:堀江ヒデアキビー・エヌ・エヌ新社AmazonAffinityを入れたので、もう少しでき…"
+    },
+    {
+      "source": "youtube",
+      "sourceLabel": "YouTube",
+      "title": "一人語りが読み上げっぽくなる原因がわかった【#7】",
+      "url": "https://www.youtube.com/watch?v=HapRnVJzBoo",
+      "publishedAt": "2026-08-24T06:23:24.000Z",
+      "summary": "雑談系ポッドキャスト「キマグレエフエム」にゲスト出演してみて考えたことをお話ししました。 ▼キマグレエフエム 出演回 【336】実家への仕送りをやめた (ゲスト: toyaさん) | キマグレエフエム https://kimagurefm.pages.dev/ep/336/ 【337】書かずにはいられない (ゲスト: …"
     },
     {
       "source": "diary",
@@ -362,6 +346,14 @@
       "summary": "1日目は有休の代わりに使ってしまいました。なので8/18が2日目です。 いきさつ 顔がかゆいとは 8/17（月）夜にギブアップした 8/18（火） なんだったのだろう これも書いておきたい いきさつ ざっくり8/1くらいから、「謎の顔のかゆみ」と「まぶたの乾燥およびかゆみ」に悩まされていました。8/3に皮膚科を受診し、…"
     },
     {
+      "source": "youtube",
+      "sourceLabel": "YouTube",
+      "title": "ZINEの章タイトルは、盛り上げすぎない【#6】",
+      "url": "https://www.youtube.com/watch?v=WtmhmN6Eptg",
+      "publishedAt": "2026-08-17T01:18:09.000Z",
+      "summary": "次に作るZINEの最初の工程である「企画書」と、作る手順についてお話ししました。 ▼前回作ったZINEのお品書き #ZINEフェス東京 （7/11@東京都立産業貿易センター 台東館4階A-2）お品書き - ログとレンズ https://colorweaver.hatenablog.com/entry/2026/07/0…"
+    },
+    {
       "source": "diary",
       "sourceLabel": "日記",
       "title": "ねずみの棲む家",
@@ -376,6 +368,14 @@
       "url": "https://toya.hateblo.jp/entry/2026/08/11/185008",
       "publishedAt": "2026-08-11T09:50:08.000Z",
       "summary": ""
+    },
+    {
+      "source": "youtube",
+      "sourceLabel": "YouTube",
+      "title": "大屋根リングを見に、東京から大阪へ16回通った【#5】",
+      "url": "https://www.youtube.com/watch?v=_JSSmowronM",
+      "publishedAt": "2026-08-10T00:49:26.000Z",
+      "summary": "東京から大阪・関西万博へ16回通った、ということについて話しました。 ▼出演して万博について語ったOssan.fmの回 365. 大阪・関西万博2025 - 前編 (ゲスト:toyaさん) | Ossan.fm https://ossan.fm/episode/365 366. 大阪・関西万博2025 - 後編 (ゲス…"
     },
     {
       "source": "diary",
