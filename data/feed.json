@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-11-06T10:21:05.229Z",
+  "generatedAt": "2026-11-06T18:50:44.861Z",
   "entries": [
+    {
+      "source": "mastodon",
+      "sourceLabel": "Mastodon",
+      "title": "そうか「不定愁訴」という言葉があったかー。まさに私のここ3ヶ月それじゃん……",
+      "url": "https://mstdn.toya.blog/@toya/117569502981567162",
+      "publishedAt": "2026-11-06T12:30:46.000Z",
+      "summary": "そうか「不定愁訴」という言葉があったかー。まさに私のここ3ヶ月それじゃん……"
+    },
+    {
+      "source": "mastodon",
+      "sourceLabel": "Mastodon",
+      "title": "ここ3ヶ月くらい政治的なツイート（Xはポストと呼んでいるが）に時間を割けなかったこともあったから、難を逃れている感じがあ…",
+      "url": "https://mstdn.toya.blog/@toya/117568910283951412",
+      "publishedAt": "2026-11-06T10:00:02.000Z",
+      "summary": "ここ3ヶ月くらい政治的なツイート（Xはポストと呼んでいるが）に時間を割けなかったこともあったから、難を逃れている感じがあるけど、私にもリスクはあるだろうな～～～～～～"
+    },
+    {
+      "source": "mastodon",
+      "sourceLabel": "Mastodon",
+      "title": "X（という名前の謎のSNS）で信頼できるアカウントが立て続けに凍結されたので、本当にX依存はやばいなと思って、分散活動を…",
+      "url": "https://mstdn.toya.blog/@toya/117568905795616691",
+      "publishedAt": "2026-11-06T09:58:53.000Z",
+      "summary": "X（という名前の謎のSNS）で信頼できるアカウントが立て続けに凍結されたので、本当にX依存はやばいなと思って、分散活動を開始しています。めんどくさいけど自衛のためだから。あとはてなブログ最高（お気持ち）"
+    },
     {
       "source": "ayako_work",
       "sourceLabel": "手順のとなり",
@@ -8,6 +32,22 @@
       "url": "https://blog.ayako-m.work/entry/2026/11/05/213957",
       "publishedAt": "2026-11-05T12:39:57.000Z",
       "summary": "本名のポートフォリオサイトを作った。https://ayako-m.work/ で見られる。 ayako-m.work これまで自分用のページはGitHub Pagesに置いてきたのだけれど、あのURLにはGitHubのアカウント名が入る。本名のサイトをそこに置くと、別名義で書いているものと名前がつながってしまう。持っ…"
+    },
+    {
+      "source": "mastodon",
+      "sourceLabel": "Mastodon",
+      "title": "お名前.comでドメイン3つ持ってて、まずひとつCloudflareに移そうと思って、Claudeに教えてもらいながらひ…",
+      "url": "https://mstdn.toya.blog/@toya/117562837111635859",
+      "publishedAt": "2026-11-05T08:15:33.000Z",
+      "summary": "お名前.comでドメイン3つ持ってて、まずひとつCloudflareに移そうと思って、Claudeに教えてもらいながらひとつずつ手順をたどって、ついで？にポートフォリオサイトも簡単なのを作ってもらって設置した。あと2つ……（そのうち2つはとや丼＋ブログ2つ分なのでまた今度やります）https://ayako-m.wor…"
+    },
+    {
+      "source": "mastodon",
+      "sourceLabel": "Mastodon",
+      "title": "お名前ID卒業したくて調べている",
+      "url": "https://mstdn.toya.blog/@toya/117562127660440937",
+      "publishedAt": "2026-11-05T05:15:07.000Z",
+      "summary": "お名前ID卒業したくて調べている"
     },
     {
       "source": "diary",
@@ -26,12 +66,28 @@
       "summary": "精神的に元気を出したい時に見るサイト「前例」を作った - Really Saying Something\ntoya.hatenablog.com/entry/2026/1..."
     },
     {
+      "source": "mastodon",
+      "sourceLabel": "Mastodon",
+      "title": "精神的に元気を出したい時に見るサイト「前例」を作った - Really Saying Somethinghttps://…",
+      "url": "https://mstdn.toya.blog/@toya/117551319086538571",
+      "publishedAt": "2026-11-03T07:26:21.000Z",
+      "summary": "精神的に元気を出したい時に見るサイト「前例」を作った - Really Saying Somethinghttps://toya.hatenablog.com/entry/2026/11/03/162549"
+    },
+    {
       "source": "hatena",
       "sourceLabel": "ブログ (はてな)",
       "title": "精神的に元気を出したい時に見るサイト「前例」を作った",
       "url": "https://toya.hatenablog.com/entry/2026/11/03/162549",
       "publishedAt": "2026-11-03T07:25:49.000Z",
       "summary": "私とのこれまでの会話をもとに、精神的に元気を出したい時に見るサイトを作ってください。簡単に理解を示したら受け入れられるとか、安易なやさしい言葉はやめてください。 昨日「無理な日の手順書」を作ったので、今度はその手前、精神的に落ち着いたり元気を出したりしたい時に見るためのサイトを作ってみました。「前例」です。サイト名もコ…"
+    },
+    {
+      "source": "mastodon",
+      "sourceLabel": "Mastodon",
+      "title": "「無理な日の手順書」をClaudeで作った - Really Saying Somethinghttps://toya.…",
+      "url": "https://mstdn.toya.blog/@toya/117543724469312840",
+      "publishedAt": "2026-11-01T23:14:57.000Z",
+      "summary": "「無理な日の手順書」をClaudeで作った - Really Saying Somethinghttps://toya.hatenablog.com/entry/2026/11/02/081406"
     },
     {
       "source": "bluesky",
@@ -66,6 +122,14 @@
       "summary": ""
     },
     {
+      "source": "mastodon",
+      "sourceLabel": "Mastodon",
+      "title": "Galaxy Z Fold8 Ultraで撮ってみた",
+      "url": "https://mstdn.toya.blog/@toya/117540407264597928",
+      "publishedAt": "2026-11-01T09:11:20.000Z",
+      "summary": "Galaxy Z Fold8 Ultraで撮ってみた"
+    },
+    {
       "source": "hatena",
       "sourceLabel": "ブログ (はてな)",
       "title": "今週のはてなブックマーク週報（2026年10月24日〜10月30日分）",
@@ -88,6 +152,14 @@
       "url": "https://www.youtube.com/watch?v=kJj0ZWAJXV4",
       "publishedAt": "2026-10-26T01:20:37.000Z",
       "summary": "3週収録をお休みしてしまったので、近況報告についてお話ししました。 ▼関連記事 ・文学フリマ京都11 – 2027/1/17(日) | 文学フリマ https://bunfree.net/event/kyoto11/ ・ホルモン補充療法（HRT）、ざっくり1ヶ月で元の生活に近くなってきました（私の場合） - 手順のとな…"
+    },
+    {
+      "source": "mastodon",
+      "sourceLabel": "Mastodon",
+      "title": "非エンジニアとエンジニアの間のAI活用 - Really Saying Something https://toya.h…",
+      "url": "https://mstdn.toya.blog/@toya/117500033557536225",
+      "publishedAt": "2026-10-25T06:03:46.000Z",
+      "summary": "非エンジニアとエンジニアの間のAI活用 - Really Saying Something https://toya.hatenablog.com/entry/2026/10/25/150311#はてなブログ"
     },
     {
       "source": "bluesky",
@@ -130,12 +202,12 @@
       "summary": "台風のせいなのかなんなのか頭がとても痛くて、頭痛～るを見ようとしたら、PHPの脆弱性対応でメンテナンス中であった"
     },
     {
-      "source": "bluesky",
-      "sourceLabel": "Bluesky",
-      "title": "blue sky",
-      "url": "https://bsky.app/profile/toya.bsky.social/post/3my2erbzzfc2t",
-      "publishedAt": "2026-10-17T05:37:50.828Z",
-      "summary": "blue sky"
+      "source": "mastodon",
+      "sourceLabel": "Mastodon",
+      "title": "昨夜2:40まで寝付けなかったのに今朝まあまあ元気なのはなぜ",
+      "url": "https://mstdn.toya.blog/@toya/117430830000103626",
+      "publishedAt": "2026-10-13T00:44:24.000Z",
+      "summary": "昨夜2:40まで寝付けなかったのに今朝まあまあ元気なのはなぜ"
     },
     {
       "source": "ayako_work",
